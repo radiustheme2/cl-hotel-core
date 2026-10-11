@@ -1,0 +1,2131 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CL Hotel Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-25 10:00+0000\n"
+"PO-Revision-Date: 2026-08-25 10:00+0000\n"
+"Last-Translator: RadiusTheme\n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: polib\n"
+
+#: elementor/hooks.php:92
+msgid " Category Label"
+msgstr " تسمية الفئة"
+
+#: elementor/pricing/class.php:104 elementor/pricing/class.php:165
+#: elementor/pricing/class.php:216
+msgid "$19.00"
+msgstr "$19.00"
+
+#: elementor/pricing/class.php:175
+msgid "$199.00"
+msgstr "$199.00"
+
+#: elementor/pricing/class.php:170 elementor/pricing/class.php:268
+msgid "$39.00"
+msgstr "$39.00"
+
+#: elementor/pricing/class.php:278
+msgid "$499.00"
+msgstr "$499.00"
+
+#: elementor/pricing/class.php:273
+msgid "$99.00"
+msgstr "$99.00"
+
+#: elementor/posts/view-1.php:126 elementor/posts/view-2.php:139
+msgid "% Comments"
+msgstr "% تعليقات"
+
+#. %s: post type name
+#: inc/rt-posts.php:87
+#, php-format
+msgid "%s  updated."
+msgstr "تم تحديث %s."
+
+#. %s: post type name
+#: inc/rt-posts.php:65
+#, php-format
+msgid "%s Archives"
+msgstr "أرشيف %s"
+
+#. %s: post type name
+#: inc/rt-posts.php:67
+#, php-format
+msgid "%s Attributes"
+msgstr "خصائص %s"
+
+#. %s: post type plural name
+#: inc/rt-posts.php:60
+#, php-format
+msgid "%s found in Trash"
+msgstr "تم العثور على %s في المهملات"
+
+#. %s: post type plural name
+#. %s: taxonomy plural name
+#: inc/rt-posts.php:77 inc/rt-posts.php:158
+#, php-format
+msgid "%s list"
+msgstr "قائمة %s"
+
+#. %s: post type plural name
+#. %s: taxonomy plural name
+#: inc/rt-posts.php:75 inc/rt-posts.php:156
+#, php-format
+msgid "%s list navigation"
+msgstr "تنقل قائمة %s"
+
+#. %s: Number of listings.
+#: elementor/authors/view.php:65
+#, php-format
+msgid "%s Listing"
+msgid_plural "%s Listings"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: post type plural name
+#: inc/rt-posts.php:58
+#, php-format
+msgid "%s not found"
+msgstr "لم يتم العثور على %s"
+
+#. %s: post type name
+#: inc/rt-posts.php:81
+#, php-format
+msgid "%s published privately."
+msgstr "تم نشر %s بشكل خاص."
+
+#. %s: post type name
+#: inc/rt-posts.php:79
+#, php-format
+msgid "%s published."
+msgstr "تم نشر %s."
+
+#. %s: post type name
+#: inc/rt-posts.php:83
+#, php-format
+msgid "%s reverted to draft."
+msgstr "تم إرجاع %s إلى مسودة."
+
+#. %s: post type name
+#: inc/rt-posts.php:85
+#, php-format
+msgid "%s scheduled."
+msgstr "تمت جدولة %s."
+
+#. %s: taxonomy plural name
+#: inc/rt-posts.php:160
+#, php-format
+msgid "&larr; Back to %s"
+msgstr "&larr; العودة إلى %s"
+
+#: elementor/base.php:98
+msgid "1"
+msgstr "1"
+
+#: elementor/base.php:87 elementor/posts/class.php:26
+msgid "1 Columns"
+msgstr "عمود واحد"
+
+#: elementor/posts/view-1.php:125 elementor/posts/view-2.php:138
+msgid "1 Comment"
+msgstr "تعليق واحد"
+
+#: elementor/base.php:112
+msgid "1000"
+msgstr "1000"
+
+#: elementor/base.php:113
+msgid "1500"
+msgstr "1500"
+
+#: elementor/base.php:99
+msgid "2"
+msgstr "2"
+
+#: elementor/base.php:88 elementor/posts/class.php:25
+msgid "2 Columns"
+msgstr "عمودان"
+
+#: elementor/base.php:122
+msgid "200"
+msgstr "200"
+
+#: elementor/base.php:114
+msgid "2000"
+msgstr "2000"
+
+#: elementor/base.php:115
+msgid "2500"
+msgstr "2500"
+
+#: elementor/base.php:100
+msgid "3"
+msgstr "3"
+
+#: elementor/base.php:89 elementor/posts/class.php:24
+msgid "3 Columns"
+msgstr "3 أعمدة"
+
+#: elementor/base.php:123
+msgid "300"
+msgstr "300"
+
+#: elementor/base.php:116
+msgid "3000"
+msgstr "3000"
+
+#: elementor/base.php:101
+msgid "4"
+msgstr "4"
+
+#: elementor/base.php:90 elementor/posts/class.php:23
+msgid "4 Columns"
+msgstr "4 أعمدة"
+
+#: elementor/base.php:124
+msgid "400"
+msgstr "400"
+
+#: elementor/base.php:102
+msgid "5"
+msgstr "5"
+
+#: elementor/base.php:91
+msgid "5 Columns"
+msgstr "5 أعمدة"
+
+#: elementor/base.php:111 elementor/base.php:125
+msgid "500"
+msgstr "500"
+
+#: elementor/base.php:103
+msgid "6"
+msgstr "6"
+
+#: elementor/base.php:92
+msgid "6 Columns"
+msgstr "6 أعمدة"
+
+#: elementor/base.php:126
+msgid "600"
+msgstr "600"
+
+#: elementor/base.php:104
+msgid "7"
+msgstr "7"
+
+#: elementor/base.php:127
+msgid "700"
+msgstr "700"
+
+#: elementor/base.php:105
+msgid "8"
+msgstr "8"
+
+#: elementor/base.php:128
+msgid "800"
+msgstr "800"
+
+#: elementor/base.php:129
+msgid "900"
+msgstr "900"
+
+#. Base ID
+#: widgets/about.php:18
+msgid "A1: About"
+msgstr "A1: حول"
+
+#. Base ID
+#: widgets/post.php:18
+msgid "A2: Posts"
+msgstr "A2: المنشورات"
+
+#. Base ID
+#: widgets/newsletter.php:18
+msgid "A3: Newsletter"
+msgstr "A3: النشرة الإخبارية"
+
+#. Base ID
+#: widgets/advanced-search.php:21
+msgid "A4: Advanced Search"
+msgstr "A4: بحث متقدم"
+
+#. Base ID
+#: widgets/addvertise.php:18
+msgid "A8: Advertise"
+msgstr "A8: إعلان"
+
+#: widgets/advanced-search.php:23
+msgid "Add advanced search field"
+msgstr "إضافة حقل بحث متقدم"
+
+#: elementor/listing-locations/class.php:92
+msgid "Add as many locations as you want"
+msgstr "أضف أي عدد من المواقع تريد"
+
+#: inc/post-meta.php:216
+msgid "Add Faq"
+msgstr "إضافة سؤال شائع"
+
+#: inc/rt-posts.php:44
+msgid "Add New"
+msgstr "إضافة جديد"
+
+#. %s: post type name
+#. %s: taxonomy name
+#: inc/rt-posts.php:46 inc/rt-posts.php:142
+#, php-format
+msgid "Add New %s"
+msgstr "إضافة %s جديد"
+
+#. %s: taxonomy plural name
+#: inc/rt-posts.php:148
+#, php-format
+msgid "Add or remove %s"
+msgstr "إضافة أو إزالة %s"
+
+#: widgets/about.php:79
+msgid "Address"
+msgstr "العنوان"
+
+#: widgets/advanced-search.php:91
+msgid "Advanced Search"
+msgstr "البحث المتقدم"
+
+#: elementor/authors/class.php:328
+msgid "Agency Color"
+msgstr "لون الوكالة"
+
+#: elementor/authors/class.php:356
+msgid "Agency Color - Hover"
+msgstr "لون الوكالة - تمرير"
+
+#: elementor/authors/class.php:291
+msgid "Agency Spacing"
+msgstr "تباعد الوكالة"
+
+#: elementor/authors/class.php:264
+msgid "Agency Typography"
+msgstr "طباعة الوكالة"
+
+#: elementor/authors/class.php:110
+msgid "Agent offset"
+msgstr "إزاحة الوكيل"
+
+#: elementor/authors/class.php:71
+msgid "Agent Source"
+msgstr "مصدر الوكيل"
+
+#: elementor/el-extend.php:176
+msgid "Alignment"
+msgstr "المحاذاة"
+
+#: elementor/testimonial/class.php:139
+msgid ""
+"Aliquid expedita recusandae ipsam quas fugit aperiam nihil nemo delectus "
+"laudantium? Enim est quibusdam dicta a"
+msgstr ""
+
+#. %s: post type plural name
+#. %s: taxonomy plural name
+#: inc/rt-posts.php:63 inc/rt-posts.php:130
+#, php-format
+msgid "All %s"
+msgstr "كل %s"
+
+#: elementor/base.php:236 widgets/post.php:108
+msgid "All Categories"
+msgstr "كل الفئات"
+
+#: elementor/listing-locations/class.php:264
+#: elementor/listing-locations/class.php:317
+#: elementor/testimonial/class.php:229
+msgid "Arrow"
+msgstr "سهم"
+
+#: elementor/posts/class.php:230 elementor/authors/class.php:149
+msgid "ASC"
+msgstr "ASC"
+
+#: elementor/posts/class.php:215 elementor/authors/class.php:133
+msgid "Author"
+msgstr "الكاتب"
+
+#: elementor/posts/class.php:550
+msgid "Author Avatar Style"
+msgstr "نمط صورة الكاتب"
+
+#: elementor/posts/class.php:554
+msgid "Author Icon"
+msgstr "أيقونة الكاتب"
+
+#: elementor/posts/class.php:555
+msgid "Author Image"
+msgstr "صورة الكاتب"
+
+#: elementor/posts/class.php:538
+msgid "Author Visibility"
+msgstr "ظهور الكاتب"
+
+#: elementor/authors/class.php:42
+msgid "Authors"
+msgstr "الكتّاب"
+
+#: widgets/advanced-search.php:124 elementor/search-form/class.php:55
+msgid "Auto Suggestion"
+msgstr "اقتراح تلقائي"
+
+#: elementor/listing-locations/class.php:341
+#: elementor/testimonial/class.php:255
+msgid "Autoplay"
+msgstr "تشغيل تلقائي"
+
+#: elementor/listing-locations/class.php:353
+#: elementor/testimonial/class.php:268
+msgid "Autoplay Speed"
+msgstr "سرعة التشغيل"
+
+#: elementor/authors/class.php:401 elementor/authors/class.php:468
+#: elementor/authors/class.php:501 elementor/title/class.php:167
+#: elementor/title/class.php:241 elementor/title/class.php:344
+#: elementor/title/class.php:390 elementor/infobox/class.php:307
+#: elementor/infobox/class.php:473 elementor/infobox/class.php:518
+#: elementor/infobox/class.php:692 elementor/infobox/class.php:738
+#: elementor/pricing/class.php:300 elementor/pricing/class.php:356
+#: elementor/pricing/class.php:532 elementor/pricing/class.php:584
+#: elementor/pricing/class.php:761
+msgid "Background"
+msgstr "الخلفية"
+
+#: elementor/pricing/class.php:536 elementor/pricing/class.php:765
+msgid "Background Color"
+msgstr "لون الخلفية"
+
+#: elementor/authors/class.php:405 elementor/authors/class.php:472
+#: elementor/authors/class.php:505
+msgid "Background color"
+msgstr "لون الخلفية"
+
+#: elementor/listing-locations/class.php:80
+msgid "Background Image"
+msgstr "صورة الخلفية"
+
+#: widgets/addvertise.php:72
+msgid "background image"
+msgstr "صورة الخلفية"
+
+#: elementor/pricing/class.php:735
+msgid "Badge Style"
+msgstr "نمط الشارة"
+
+#: elementor/pricing/class.php:140
+msgid "Badge Text"
+msgstr "نص الشارة"
+
+#: elementor/pricing/class.php:163 elementor/pricing/class.php:266
+msgid "Basic"
+msgstr "أساسي"
+
+#: elementor/title/class.php:233 elementor/title/class.php:363
+#: elementor/title/class.php:398 elementor/infobox/class.php:299
+#: elementor/infobox/class.php:446 elementor/infobox/class.php:711
+#: elementor/infobox/class.php:746 elementor/testimonial/class.php:633
+#: elementor/pricing/class.php:314 elementor/pricing/class.php:557
+#: elementor/pricing/class.php:592
+msgid "Border"
+msgstr "الحد"
+
+#: elementor/testimonial/class.php:471
+msgid "Border Radius"
+msgstr "استدارة الحد"
+
+#: elementor/infobox/class.php:209
+msgid "Bottom"
+msgstr "أسفل"
+
+#: elementor/listing-locations/class.php:517 elementor/pricing/class.php:304
+msgid "Box Background"
+msgstr "خلفية الصندوق"
+
+#: elementor/testimonial/class.php:623
+msgid "Box Color"
+msgstr "لون الصندوق"
+
+#: elementor/listing-locations/class.php:100
+msgid "Box Height"
+msgstr "ارتفاع الصندوق"
+
+#: elementor/posts/class.php:509
+msgid "Box Hover"
+msgstr "الصندوق عند التمرير"
+
+#: inc/post-meta.php:117
+msgid "Box layout"
+msgstr "تخطيط صندوقي"
+
+#: elementor/testimonial/class.php:614 elementor/pricing/class.php:291
+msgid "Box Style"
+msgstr "نمط الصندوق"
+
+#: inc/post-meta.php:162
+msgid "Breadcrumb Area"
+msgstr "منطقة مسار التنقل"
+
+#: inc/post-meta.php:177
+msgid "Breadcrumb Background Color"
+msgstr "لون خلفية مسار التنقل"
+
+#: inc/post-meta.php:172
+msgid "Breadcrumb Background Image"
+msgstr "صورة خلفية مسار التنقل"
+
+#: inc/post-meta.php:182
+msgid "Breadcrumb Background Opacity"
+msgstr "شفافية خلفية مسار التنقل"
+
+#: elementor/posts/class.php:641 elementor/title/class.php:300
+#: elementor/infobox/class.php:648 elementor/pricing/class.php:488
+msgid "Button"
+msgstr "زر"
+
+#: elementor/posts/class.php:634
+msgid "Button Settings"
+msgstr "إعدادات الزر"
+
+#: elementor/title/class.php:308 elementor/infobox/class.php:656
+#: elementor/pricing/class.php:496
+msgid "Button Style"
+msgstr "نمط الزر"
+
+#: elementor/posts/class.php:652 elementor/pricing/class.php:111
+#: elementor/pricing/class.php:223
+msgid "Button Text"
+msgstr "نص الزر"
+
+#: elementor/authors/class.php:75
+msgid "By Agency"
+msgstr "حسب الوكالة"
+
+#: elementor/authors/class.php:76
+msgid "By Agent ID"
+msgstr "حسب معرف الوكيل"
+
+#: elementor/posts/class.php:122
+msgid "By Category"
+msgstr "حسب الفئة"
+
+#: elementor/posts/class.php:121
+msgid "By Post ID"
+msgstr "حسب معرف المنشور"
+
+#: elementor/posts/class.php:123
+msgid "By Tags"
+msgstr "حسب الوسوم"
+
+#: elementor/testimonial/class.php:200
+msgid "Carousel Settings"
+msgstr "إعدادات العرض الدائري"
+
+#: widgets/post.php:126
+msgid "Category"
+msgstr "الفئة"
+
+#: elementor/posts/class.php:579
+msgid "Category Visibility"
+msgstr "ظهور الفئة"
+
+#: elementor/hooks.php:70 elementor/base.php:71 elementor/el-extend.php:184
+#: elementor/listing-locations/class.php:284 elementor/infobox/class.php:146
+#: elementor/infobox/class.php:175 elementor/infobox/class.php:234
+msgid "Center"
+msgstr "وسط"
+
+#: elementor/listing-locations/class.php:368
+#: elementor/testimonial/class.php:284
+msgid "Centered Slides"
+msgstr "شرائح مركزية"
+
+#: elementor/testimonial/class.php:126
+msgid "CEO, PSDBOSS"
+msgstr "CEO, PSDBOSS"
+
+#: elementor/authors/class.php:85
+msgid "Choose Agency"
+msgstr "اختيار الوكالة"
+
+#: elementor/posts/class.php:147
+msgid "Choose Categories"
+msgstr "اختيار الفئات"
+
+#. %s: taxonomy plural name
+#: inc/rt-posts.php:150
+#, php-format
+msgid "Choose from the most used %s"
+msgstr "اختر من الأكثر استخداماً %s"
+
+#: elementor/testimonial/class.php:44
+msgid "Choose Image"
+msgstr "اختيار الصورة"
+
+#: elementor/posts/class.php:162
+msgid "Choose Tags"
+msgstr "اختيار الوسوم"
+
+#: elementor/posts/class.php:132
+msgid "Choose Titles"
+msgstr "اختيار العناوين"
+
+#. Name of the plugin
+msgid "CL Hotel Core"
+msgstr "CL Hotel Core"
+
+#. Description of the plugin
+msgid "CL Hotel Core Plugin for Listing Hotel Theme"
+msgstr "إضافة CL Hotel الأساسية لقالب الفنادق"
+
+#: elementor/init.php:114
+msgid "CL Hotel Elements"
+msgstr "عناصر CL Hotel"
+
+#: widgets/newsletter.php:19
+msgid "CL Hotel: Newsletter Widget"
+msgstr "CL Hotel: ودجت النشرة الإخبارية"
+
+#: elementor/authors/class.php:383 elementor/authors/class.php:482
+#: elementor/authors/class.php:515 elementor/title/class.php:130
+#: elementor/title/class.php:204 elementor/title/class.php:268
+#: elementor/title/class.php:326 elementor/title/class.php:380
+#: elementor/infobox/class.php:463 elementor/infobox/class.php:508
+#: elementor/infobox/class.php:566 elementor/infobox/class.php:615
+#: elementor/infobox/class.php:674 elementor/infobox/class.php:728
+#: elementor/pricing/class.php:514 elementor/pricing/class.php:574
+msgid "Color"
+msgstr "اللون"
+
+#: elementor/listing-locations/class.php:166 elementor/authors/class.php:227
+msgid "Columns Gap"
+msgstr "فجوة الأعمدة"
+
+#: elementor/base.php:159
+msgid "Comment Count"
+msgstr "عدد التعليقات"
+
+#: elementor/posts/class.php:617
+msgid "Comment Visibility"
+msgstr "ظهور التعليقات"
+
+#: elementor/posts/view-1.php:127 elementor/posts/view-2.php:140
+msgid "Comments are Closed"
+msgstr "التعليقات مغلقة"
+
+#: elementor/testimonial/class.php:72 elementor/testimonial/class.php:547
+#: elementor/testimonial/class.php:557
+msgid "Content"
+msgstr "المحتوى"
+
+#: elementor/posts/class.php:448
+msgid "Content Color"
+msgstr "لون المحتوى"
+
+#: elementor/testimonial/class.php:404 elementor/testimonial/class.php:538
+msgid "Content Style"
+msgstr "نمط المحتوى"
+
+#: inc/post-meta.php:152
+msgid "Copyright Area"
+msgstr "منطقة حقوق النشر"
+
+#: elementor/listing-locations/class.php:562
+msgid "Count Color"
+msgstr "لون العدد"
+
+#: elementor/listing-locations/class.php:573
+msgid "Count Hover Color"
+msgstr "لون العدد عند التمرير"
+
+#: elementor/authors/class.php:415
+msgid "Counting Spacing"
+msgstr "تباعد العد"
+
+#: elementor/infobox/class.php:257
+msgid "CSS Clasess"
+msgstr "CSS Clasess"
+
+#: elementor/search-form/class.php:101
+msgid "Css class"
+msgstr "فئة CSS"
+
+#: widgets/post.php:80
+msgid "Currently there are no posts to display"
+msgstr "لا توجد منشورات للعرض حالياً"
+
+#: elementor/posts/class.php:62 elementor/authors/class.php:162
+msgid "Custom"
+msgstr "مخصص"
+
+#: widgets/post.php:117
+msgid "Custom Order (Available via Order field inside Page Attributes box)"
+msgstr "ترتيب مخصص (متاح عبر حقل الترتيب داخل صندوق خصائص الصفحة)"
+
+#: elementor/base.php:155 elementor/posts/class.php:213
+#: elementor/authors/class.php:131
+msgid "Date"
+msgstr "التاريخ"
+
+#: widgets/post.php:115
+msgid "Date (Recents comes first)"
+msgstr "التاريخ (الأحدث أولاً)"
+
+#: elementor/posts/class.php:591
+msgid "Date Format"
+msgstr "تنسيق التاريخ"
+
+#: elementor/posts/class.php:567
+msgid "Date Visibility"
+msgstr "ظهور التاريخ"
+
+#: inc/post-meta.php:50 inc/post-meta.php:64 inc/post-meta.php:75
+#: inc/post-meta.php:85 inc/post-meta.php:95 inc/post-meta.php:105
+#: inc/post-meta.php:115 inc/post-meta.php:125 inc/post-meta.php:135
+#: inc/post-meta.php:145 inc/post-meta.php:155 inc/post-meta.php:165
+#: elementor/el-extend.php:140 elementor/posts/class.php:61
+#: elementor/authors/class.php:161
+msgid "Default"
+msgstr "افتراضي"
+
+#: inc/post-meta.php:194
+msgid "default banner padding bottom will be used 100 \"px\""
+msgstr ""
+
+#: inc/post-meta.php:189
+msgid "default banner padding top will be used 100 \"px\""
+msgstr ""
+
+#: elementor/posts/class.php:595
+msgid "Default From Settings"
+msgstr "افتراضي من الإعدادات"
+
+#: elementor/base.php:205
+msgid "Default Image Size"
+msgstr "حجم الصورة الافتراضي"
+
+#: widgets/advanced-search.php:125 elementor/search-form/class.php:56
+msgid "Dependency Selection"
+msgstr "اختيار التبعية"
+
+#: elementor/posts/class.php:231 elementor/authors/class.php:150
+msgid "DESC"
+msgstr "DESC"
+
+#: inc/post-meta.php:224 widgets/newsletter.php:89 elementor/title/class.php:74
+#: elementor/title/class.php:252 elementor/infobox/class.php:90
+#: elementor/infobox/class.php:599 elementor/pricing/class.php:93
+#: elementor/pricing/class.php:205
+msgid "Description"
+msgstr "الوصف"
+
+#: elementor/pricing/class.php:417
+msgid "Description Color"
+msgstr "لون الوصف"
+
+#: elementor/pricing/class.php:436
+msgid "Description Gap"
+msgstr "فجوة الوصف"
+
+#: elementor/title/class.php:260 elementor/infobox/class.php:607
+#: elementor/pricing/class.php:409
+msgid "Description Style"
+msgstr "نمط الوصف"
+
+#: elementor/pricing/class.php:427
+msgid "Description Typography"
+msgstr "طباعة الوصف"
+
+#: elementor/listing-locations/class.php:513 elementor/testimonial/class.php:63
+#: elementor/testimonial/class.php:520 elementor/testimonial/class.php:530
+msgid "Designation"
+msgstr "المسمى الوظيفي"
+
+#: elementor/testimonial/class.php:511
+msgid "Designation Style"
+msgstr "نمط المسمى"
+
+#: elementor/listing-locations/class.php:182
+#: elementor/listing-locations/class.php:411
+#: elementor/testimonial/class.php:328
+msgid "Desktop items"
+msgstr "عناصر سطح المكتب"
+
+#: inc/post-meta.php:167
+msgid "Disable"
+msgstr "تعطيل"
+
+#: inc/post-meta.php:77 inc/post-meta.php:97 inc/post-meta.php:107
+#: inc/post-meta.php:127 inc/post-meta.php:137 inc/post-meta.php:157
+msgid "Disabled"
+msgstr "معطل"
+
+#: elementor/listing-locations/class.php:305
+msgid "Dots"
+msgstr "نقاط"
+
+#. %s: post type name
+#. %s: taxonomy name
+#: inc/rt-posts.php:48 inc/rt-posts.php:136
+#, php-format
+msgid "Edit %s"
+msgstr "تعديل %s"
+
+#: widgets/about.php:87 widgets/addvertise.php:80
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: inc/post-meta.php:166
+msgid "Enable"
+msgstr "تمكين"
+
+#: elementor/listing-locations/class.php:132
+msgid "Enable Link"
+msgstr "تمكين الرابط"
+
+#: elementor/search-form/class.php:94
+msgid "Enable or disable search by category. Default: On"
+msgstr "تمكين أو تعطيل البحث حسب الفئة. الافتراضي: مُفعّل"
+
+#: elementor/search-form/class.php:69
+msgid "Enable or disable search by keyword. Default: On"
+msgstr "تمكين أو تعطيل البحث حسب الكلمة الرئيسية. الافتراضي: مُفعّل"
+
+#: elementor/search-form/class.php:82
+msgid "Enable or disable search by location. Default: On"
+msgstr "تمكين أو تعطيل البحث حسب الموقع. الافتراضي: مُفعّل"
+
+#: inc/post-meta.php:76 inc/post-meta.php:96 inc/post-meta.php:106
+#: inc/post-meta.php:126 inc/post-meta.php:136 inc/post-meta.php:156
+msgid "Enabled"
+msgstr "مُفعّل"
+
+#: elementor/testimonial/class.php:127
+msgid ""
+"Engage with our professional real estate agents sell Following buy or rent "
+"your home.Get emails directly to your area reach inbox and manage the lead "
+"with."
+msgstr ""
+
+#: elementor/authors/class.php:98
+msgid "Enter Agent IDs"
+msgstr "أدخل معرفات الوكلاء"
+
+#: elementor/pricing/class.php:95 elementor/pricing/class.php:207
+msgid "Enter Description"
+msgstr "أدخل الوصف"
+
+#: elementor/testimonial/class.php:65 elementor/testimonial/class.php:74
+msgid "Enter Designation"
+msgstr "أدخل المسمى"
+
+#: elementor/testimonial/class.php:56
+msgid "Enter Name"
+msgstr "أدخل الاسم"
+
+#: elementor/posts/class.php:109 elementor/authors/class.php:64
+msgid "Enter number of post to show."
+msgstr "أدخل عدد المنشورات للعرض."
+
+#: elementor/posts/class.php:108 elementor/authors/class.php:63
+msgid "Enter Post Limit"
+msgstr "أدخل حد المنشورات"
+
+#: elementor/posts/class.php:192 elementor/authors/class.php:112
+msgid "Enter Post offset"
+msgstr "أدخل إزاحة المنشور"
+
+#: elementor/authors/class.php:100
+msgid "Enter the agent IDs separated by comma"
+msgstr "أدخل معرفات الوكلاء مفصولة بفواصل"
+
+#: elementor/posts/class.php:203 elementor/authors/class.php:122
+msgid "Enter the post IDs separated by comma for exclude"
+msgstr "أدخل معرفات الاستبعاد مفصولة بفواصل"
+
+#: elementor/pricing/class.php:86 elementor/pricing/class.php:198
+msgid "Enter Title"
+msgstr "أدخل العنوان"
+
+#: elementor/pricing/class.php:173 elementor/pricing/class.php:276
+msgid "Enterprise"
+msgstr "مؤسسي"
+
+#: elementor/posts/class.php:403
+msgid "Excerpt Limit"
+msgstr "حد المقتطف"
+
+#: elementor/posts/class.php:425
+msgid "Excerpt Spacing"
+msgstr "تباعد المقتطف"
+
+#: elementor/posts/class.php:376
+msgid "Excerpt Style"
+msgstr "نمط المقتطف"
+
+#: elementor/posts/class.php:384
+msgid "Excerpt Visibility"
+msgstr "ظهور المقتطف"
+
+#: elementor/authors/class.php:119
+msgid "Exclude agent"
+msgstr "استبعاد الوكيل"
+
+#: elementor/posts/class.php:200
+msgid "Exclude posts"
+msgstr "استبعاد المنشورات"
+
+#: elementor/search-form/class.php:102
+msgid "Extra class for css, if need"
+msgstr "فئة CSS إضافية، إذا لزم الأمر"
+
+#: inc/post-meta.php:26
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/post-meta.php:212
+msgid "Faq List"
+msgstr "قائمة الأسئلة الشائعة"
+
+#: inc/post-meta.php:219
+msgid "Faq Title"
+msgstr "عنوان السؤال الشائع"
+
+#: elementor/pricing/class.php:605
+msgid "Features Style"
+msgstr "نمط الميزات"
+
+#. %s: post type plural name
+#: inc/rt-posts.php:73
+#, php-format
+msgid "Filter %s list"
+msgstr "تصفية قائمة %s"
+
+#: elementor/init.php:51
+msgid "Fontello Icons"
+msgstr "أيقونات Fontello"
+
+#: inc/post-meta.php:132
+msgid "Footer Area"
+msgstr "منطقة التذييل"
+
+#: inc/post-meta.php:142
+msgid "Footer Layout"
+msgstr "تخطيط التذييل"
+
+#: inc/post-meta.php:122
+msgid "Footer Newsletter"
+msgstr "نشرة التذييل"
+
+#: widgets/newsletter.php:93
+msgid "Form Shortcode"
+msgstr "كود النموذج المختصر"
+
+#: elementor/authors/class.php:74
+msgid "From all recent agent"
+msgstr "من جميع الوكلاء الأخيرين"
+
+#: elementor/posts/class.php:120
+msgid "From all recent post"
+msgstr "من جميع المنشورات الأخيرة"
+
+#: elementor/base.php:209
+msgid "Full Size"
+msgstr "حجم كامل"
+
+#: inc/post-meta.php:65
+msgid "Full Width"
+msgstr "عرض كامل"
+
+#: inc/post-meta.php:116
+msgid "Full width layout"
+msgstr "تخطيط عرض كامل"
+
+#: elementor/listing-locations/class.php:170 elementor/authors/class.php:231
+msgid "Gap 1"
+msgstr "فجوة 1"
+
+#: elementor/listing-locations/class.php:171 elementor/authors/class.php:232
+msgid "Gap 2"
+msgstr "فجوة 2"
+
+#: elementor/listing-locations/class.php:172 elementor/authors/class.php:233
+msgid "Gap 3"
+msgstr "فجوة 3"
+
+#: elementor/listing-locations/class.php:173 elementor/authors/class.php:234
+msgid "Gap 4"
+msgstr "فجوة 4"
+
+#: elementor/listing-locations/class.php:174 elementor/authors/class.php:235
+msgid "Gap 5"
+msgstr "فجوة 5"
+
+#: elementor/pricing/class.php:639
+msgid "Gap between icon and text"
+msgstr "المسافة بين الأيقونة والنص"
+
+#: elementor/listing-locations/class.php:36 elementor/title/class.php:32
+#: elementor/infobox/class.php:46 elementor/testimonial/class.php:35
+#: elementor/pricing/class.php:46
+msgid "General"
+msgstr "عام"
+
+#: elementor/pricing/class.php:113 elementor/pricing/class.php:225
+msgid "Get It Now"
+msgstr "احصل عليه الآن"
+
+#: elementor/listing-locations/class.php:59 elementor/testimonial/class.php:98
+msgid "Grid"
+msgstr "شبكة"
+
+#: elementor/posts/class.php:59 elementor/authors/class.php:159
+msgid "Grid Column"
+msgstr "عمود الشبكة"
+
+#: elementor/posts/class.php:71 elementor/authors/class.php:171
+msgid "Grid Column for Desktop"
+msgstr "عمود الشبكة لسطح المكتب"
+
+#: elementor/authors/class.php:182
+msgid "Grid Column for Medium Desktop"
+msgstr "عمود الشبكة لسطح المكتب المتوسط"
+
+#: elementor/posts/class.php:93 elementor/authors/class.php:204
+msgid "Grid Column for Mobile"
+msgstr "عمود الشبكة للجوال"
+
+#: elementor/authors/class.php:215
+msgid "Grid Column for Small Mobile"
+msgstr "عمود الشبكة للجوال الصغير"
+
+#: elementor/posts/class.php:82
+msgid "Grid Column for Tab"
+msgstr "عمود الشبكة للتبويب"
+
+#: elementor/authors/class.php:193
+msgid "Grid Column for Tablet"
+msgstr "عمود الشبكة للجهاز اللوحي"
+
+#: elementor/testimonial/class.php:186
+msgid "Grid Columns"
+msgstr "أعمدة الشبكة"
+
+#: elementor/listing-locations/class.php:158
+msgid "Grid Options"
+msgstr "خيارات الشبكة"
+
+#: elementor/testimonial/class.php:178
+msgid "Grid Settings"
+msgstr "إعدادات الشبكة"
+
+#: elementor/pricing/class.php:164 elementor/pricing/class.php:169
+#: elementor/pricing/class.php:174 elementor/pricing/class.php:267
+#: elementor/pricing/class.php:272 elementor/pricing/class.php:277
+msgid "Hahean anunknown printer took galley of type and scrambled"
+msgstr "أخذ طابع مجهول مجموعة حروف وخلطها"
+
+#: widgets/addvertise.php:59
+msgid "Have any Questions ? Call us today."
+msgstr "هل لديك أسئلة؟ اتصل بنا اليوم."
+
+#: inc/post-meta.php:102
+msgid "Header Area On/Off"
+msgstr "منطقة الترويسة تشغيل/إيقاف"
+
+#: elementor/pricing/class.php:347
+msgid "Header Style"
+msgstr "نمط الترويسة"
+
+#: inc/post-meta.php:72
+msgid "Header top"
+msgstr "أعلى الترويسة"
+
+#: inc/post-meta.php:82
+msgid "Header Top Layout"
+msgstr "تخطيط أعلى الترويسة"
+
+#: elementor/infobox/class.php:397
+msgid "Height"
+msgstr "الارتفاع"
+
+#: elementor/posts/class.php:392
+msgid "Hidden"
+msgstr "مخفي"
+
+#: elementor/listing-locations/class.php:267
+#: elementor/listing-locations/class.php:308
+#: elementor/listing-locations/class.php:320 elementor/posts/class.php:541
+#: elementor/posts/class.php:570 elementor/posts/class.php:582
+#: elementor/posts/class.php:608 elementor/posts/class.php:620
+#: elementor/posts/class.php:644 elementor/authors/class.php:451
+#: elementor/testimonial/class.php:153 elementor/testimonial/class.php:232
+#: elementor/testimonial/class.php:421
+msgid "Hide"
+msgstr "إخفاء"
+
+#: widgets/about.php:19
+msgid "Hotel: About Widget"
+msgstr "الفندق: ودجت حول"
+
+#: widgets/post.php:19
+msgid "Hotel: Posts Widget"
+msgstr "الفندق: ودجت المنشورات"
+
+#: widgets/addvertise.php:19
+msgid "Hotel: Service Widget"
+msgstr "الفندق: ودجت الخدمات"
+
+#: elementor/posts/class.php:348 elementor/authors/class.php:340
+#: elementor/authors/class.php:494 elementor/title/class.php:373
+#: elementor/infobox/class.php:501 elementor/infobox/class.php:721
+#: elementor/pricing/class.php:567
+msgid "Hover"
+msgstr "عند التمرير"
+
+#: elementor/title/class.php:58 elementor/infobox/class.php:74
+msgid "HTML Tag"
+msgstr "وسم HTML"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.radiustheme.com"
+msgstr "https://www.radiustheme.com"
+
+#: elementor/pricing/class.php:121 elementor/pricing/class.php:233
+msgid "https://your-link.com"
+msgstr "https://your-link.com"
+
+#: elementor/infobox/class.php:54
+msgid "Icon"
+msgstr "أيقونة"
+
+#: elementor/infobox/class.php:139
+msgid "Icon Alignment left/right"
+msgstr "محاذاة الأيقونة يسار/يمين"
+
+#: elementor/infobox/class.php:337
+msgid "Icon Box"
+msgstr "صندوق الأيقونة"
+
+#: elementor/listing-locations/class.php:584 elementor/pricing/class.php:676
+msgid "Icon Color"
+msgstr "لون الأيقونة"
+
+#: elementor/listing-locations/class.php:595
+msgid "Icon Hover Color"
+msgstr "لون الأيقونة عند التمرير"
+
+#: elementor/infobox/class.php:116
+msgid "Icon Position"
+msgstr "موضع الأيقونة"
+
+#: elementor/infobox/class.php:344 elementor/pricing/class.php:685
+msgid "Icon Size"
+msgstr "حجم الأيقونة"
+
+#: elementor/pricing/class.php:668
+msgid "Icon Style"
+msgstr "نمط الأيقونة"
+
+#: inc/post-meta.php:174 inc/post-meta.php:179 inc/post-meta.php:199
+#: inc/post-meta.php:204
+msgid "If not selected, default will be used"
+msgstr "إذا لم يتم الاختيار، سيتم استخدام الافتراضي"
+
+#: elementor/listing-locations/class.php:374
+#: elementor/testimonial/class.php:290
+msgid ""
+"If you use centered slider options then default column will not working."
+msgstr ""
+
+#: widgets/newsletter.php:81
+msgid "Image"
+msgstr "صورة"
+
+#: elementor/listing-locations/class.php:144
+msgid "Image Border Radius"
+msgstr "استدارة حد الصورة"
+
+#: elementor/posts/class.php:259
+msgid "Image Height"
+msgstr "ارتفاع الصورة"
+
+#: elementor/posts/class.php:250
+msgid "Image Size"
+msgstr "حجم الصورة"
+
+#: elementor/pricing/class.php:721
+msgid "Inactive Color"
+msgstr "لون غير نشط"
+
+#: elementor/pricing/class.php:713
+msgid "Inactive items"
+msgstr "عناصر غير نشطة"
+
+#: elementor/listing-locations/class.php:329
+#: elementor/testimonial/class.php:242
+msgid "Infinite"
+msgstr "لانهائي"
+
+#: elementor/infobox/class.php:23 elementor/infobox/class.php:269
+msgid "Info Box"
+msgstr "صندوق المعلومات"
+
+#: elementor/infobox/class.php:311 elementor/infobox/class.php:477
+#: elementor/infobox/class.php:522
+msgid "Infobox Background"
+msgstr "خلفية صندوق المعلومات"
+
+#: elementor/el-extend.php:141
+msgid "Inline"
+msgstr "في سطر"
+
+#. %s: post type name
+#: inc/rt-posts.php:69
+#, php-format
+msgid "Insert into %s"
+msgstr "إدراج في %s"
+
+#: inc/post-meta.php:38
+msgid "Instagram"
+msgstr "Instagram"
+
+#: elementor/listing-locations/class.php:505
+msgid "Item Style"
+msgstr "نمط العنصر"
+
+#: elementor/testimonial/class.php:131
+msgid "John Doe"
+msgstr "John Doe"
+
+#: elementor/hooks.php:78 elementor/base.php:79
+msgid "Justified"
+msgstr "مضبوط"
+
+#: elementor/testimonial/class.php:137
+msgid "Kent Odeldan"
+msgstr "Kent Odeldan"
+
+#: elementor/hooks.php:94
+msgid "Keyword field position"
+msgstr "موضع حقل الكلمة الرئيسية"
+
+#: elementor/hooks.php:138
+msgid "label Color"
+msgstr "لون التسمية"
+
+#: elementor/posts/class.php:217 elementor/authors/class.php:135
+msgid "Last modified date"
+msgstr "تاريخ آخر تعديل"
+
+#: inc/post-meta.php:61 elementor/testimonial/class.php:95
+#: elementor/testimonial/class.php:108
+msgid "Layout"
+msgstr "التخطيط"
+
+#: inc/post-meta.php:86 inc/post-meta.php:146
+msgid "Layout 1"
+msgstr "التخطيط 1"
+
+#: inc/post-meta.php:87 inc/post-meta.php:147
+msgid "Layout 2"
+msgstr "التخطيط 2"
+
+#: inc/post-meta.php:52
+msgid "Layout Settings"
+msgstr "إعدادات التخطيط"
+
+#: inc/post-meta.php:56 elementor/listing-locations/class.php:57
+msgid "Layouts"
+msgstr "التخطيطات"
+
+#: elementor/hooks.php:66 elementor/base.php:67 elementor/el-extend.php:180
+#: elementor/listing-locations/class.php:280 elementor/infobox/class.php:119
+#: elementor/infobox/class.php:142 elementor/infobox/class.php:171
+#: elementor/infobox/class.php:230
+msgid "Left"
+msgstr "يسار"
+
+#: inc/post-meta.php:66
+msgid "Left Sidebar"
+msgstr "الشريط الجانبي الأيسر"
+
+#: elementor/pricing/class.php:360
+msgid "Line Color"
+msgstr "لون الخط"
+
+#: elementor/title/class.php:90 elementor/infobox/class.php:106
+#: elementor/pricing/class.php:119 elementor/pricing/class.php:231
+msgid "Link"
+msgstr "رابط"
+
+#: elementor/authors/class.php:375
+msgid "Listing Counting Style"
+msgstr "نمط عد الإعلانات"
+
+#: elementor/listing-locations/class.php:22
+msgid "Listing Locations"
+msgstr "مواقع الإعلانات"
+
+#: elementor/search-form/class.php:50
+msgid "Listing Search Type"
+msgstr "نوع بحث الإعلانات"
+
+#: elementor/listing-locations/class.php:70
+msgid "Location background image"
+msgstr "صورة خلفية الموقع"
+
+#: elementor/testimonial/class.php:133
+msgid ""
+"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquid expedita "
+"recusandae ipsam quas fugit aperiam nihil nemo delectus laudantium? Enim est "
+"quibusdam dicta a"
+msgstr ""
+
+#: elementor/title/class.php:149 elementor/title/class.php:223
+#: elementor/title/class.php:287 elementor/infobox/class.php:278
+#: elementor/infobox/class.php:425 elementor/infobox/class.php:585
+#: elementor/infobox/class.php:634
+msgid "Margin"
+msgstr "الهامش"
+
+#: elementor/testimonial/class.php:125
+msgid "Maria Zokatti"
+msgstr "Maria Zokatti"
+
+#: inc/post-meta.php:184
+msgid "Max input number will be 100"
+msgstr "الحد الأقصى للإدخال 100"
+
+#: elementor/listing-locations/class.php:192
+#: elementor/listing-locations/class.php:429
+#: elementor/testimonial/class.php:346
+msgid "Medium Desktop items"
+msgstr "عناصر سطح المكتب المتوسط"
+
+#: inc/post-meta.php:112
+msgid "Menu Layout"
+msgstr "تخطيط القائمة"
+
+#: elementor/base.php:160
+msgid "Menu Order"
+msgstr "ترتيب القائمة"
+
+#: elementor/authors/class.php:138
+msgid "Menu order"
+msgstr "ترتيب القائمة"
+
+#: elementor/posts/class.php:495
+msgid "Meta Color"
+msgstr "لون البيانات الوصفية"
+
+#: elementor/posts/class.php:516
+msgid "Meta Color Hover"
+msgstr "لون البيانات عند التمرير"
+
+#: elementor/posts/class.php:467
+msgid "Meta Info Style"
+msgstr "نمط معلومات البيانات"
+
+#: elementor/infobox/class.php:205
+msgid "Middle"
+msgstr "وسط"
+
+#: elementor/listing-locations/class.php:212
+#: elementor/listing-locations/class.php:465
+#: elementor/testimonial/class.php:382
+msgid "Mobile items"
+msgstr "عناصر الجوال"
+
+#: elementor/base.php:156
+msgid "Modified"
+msgstr "معدّل"
+
+#: elementor/pricing/class.php:77
+msgid "Monthly"
+msgstr "شهري"
+
+#: elementor/pricing/class.php:158
+msgid "Monthly Items"
+msgstr "عناصر شهرية"
+
+#: elementor/posts/class.php:654
+msgid "More Details"
+msgstr "مزيد من التفاصيل"
+
+#: elementor/testimonial/class.php:54
+msgid "Name"
+msgstr "الاسم"
+
+#: elementor/authors/class.php:318 elementor/testimonial/class.php:494
+msgid "Name Color"
+msgstr "لون الاسم"
+
+#: elementor/authors/class.php:346
+msgid "Name Color - Hover"
+msgstr "لون الاسم - تمرير"
+
+#: elementor/authors/class.php:272
+msgid "Name Spacing"
+msgstr "تباعد الاسم"
+
+#: elementor/testimonial/class.php:485
+msgid "Name Style"
+msgstr "نمط الاسم"
+
+#: elementor/authors/class.php:256 elementor/testimonial/class.php:504
+msgid "Name Typography"
+msgstr "طباعة الاسم"
+
+#: elementor/authors/class.php:247
+msgid "Name/Agency Style"
+msgstr "نمط الاسم/الوكالة"
+
+#: elementor/listing-locations/class.php:276
+msgid "Navigation Position"
+msgstr "موضع التنقل"
+
+#. %s: post type name
+#: inc/rt-posts.php:50
+#, php-format
+msgid "New %s"
+msgstr "جديد %s"
+
+#. %s: taxonomy name
+#: inc/rt-posts.php:144
+#, php-format
+msgid "New %s Name"
+msgstr "اسم %s جديد"
+
+#: elementor/listing-locations/class.php:332
+#: elementor/listing-locations/class.php:344
+#: elementor/listing-locations/class.php:371
+#: elementor/testimonial/class.php:245 elementor/testimonial/class.php:258
+#: elementor/testimonial/class.php:287
+msgid "No"
+msgstr "لا"
+
+#. %s: taxonomy plural name
+#: inc/rt-posts.php:154
+#, php-format
+msgid "No %s"
+msgstr "لا يوجد %s"
+
+#. %s: taxonomy plural name
+#: inc/rt-posts.php:152
+#, php-format
+msgid "No %s found."
+msgstr "لم يتم العثور على %s."
+
+#: elementor/posts/class.php:556
+msgid "No Avatar"
+msgstr "بدون صورة رمزية"
+
+#: elementor/posts/view-1.php:124 elementor/posts/view-2.php:137
+msgid "No Comment"
+msgstr "بدون تعليق"
+
+#: elementor/posts/class.php:340 elementor/posts/class.php:487
+#: elementor/authors/class.php:312 elementor/authors/class.php:461
+#: elementor/title/class.php:318 elementor/infobox/class.php:456
+#: elementor/infobox/class.php:666 elementor/pricing/class.php:506
+msgid "Normal"
+msgstr "عادي"
+
+#: elementor/posts/class.php:218 elementor/authors/class.php:137
+msgid "Number of comments"
+msgstr "عدد التعليقات"
+
+#. %s: Number of listings.
+#: elementor/listing-locations/view-1.php:51
+#: elementor/listing-locations/view-2.php:45
+#, php-format
+msgctxt "Number of Listings"
+msgid "%s Listing"
+msgid_plural "%s Listings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: widgets/post.php:136
+msgid "Number of Post"
+msgstr "عدد المنشورات"
+
+#: elementor/posts/class.php:193 elementor/authors/class.php:113
+msgid ""
+"Number of post to displace or pass over. The offset parameter is ignored "
+"when post limit => -1 (show all posts) is used."
+msgstr ""
+
+#: elementor/el-extend.php:151
+msgid "Number part minimun width (optional)"
+msgstr "الحد الأدنى لعرض جزء الرقم (اختياري)"
+
+#: elementor/el-extend.php:204
+msgid "Number Typography"
+msgstr "طباعة الرقم"
+
+#: elementor/hooks.php:160 elementor/hooks.php:173 elementor/hooks.php:212
+#: elementor/hooks.php:225 elementor/el-extend.php:30
+#: elementor/el-extend.php:58 elementor/el-extend.php:75
+#: elementor/el-extend.php:103 elementor/listing-locations/class.php:124
+#: elementor/listing-locations/class.php:134 elementor/title/class.php:177
+#: elementor/search-form/class.php:66 elementor/search-form/class.php:79
+#: elementor/search-form/class.php:91
+msgid "Off"
+msgstr "إيقاف"
+
+#: elementor/hooks.php:159 elementor/hooks.php:172 elementor/hooks.php:211
+#: elementor/hooks.php:224 elementor/el-extend.php:31
+#: elementor/el-extend.php:76 elementor/listing-locations/class.php:123
+#: elementor/listing-locations/class.php:133 elementor/title/class.php:176
+#: elementor/search-form/class.php:65 elementor/search-form/class.php:78
+#: elementor/search-form/class.php:90
+msgid "On"
+msgstr "تشغيل"
+
+#: elementor/el-extend.php:57 elementor/el-extend.php:102
+msgid "on"
+msgstr "on"
+
+#: widgets/post.php:131 elementor/posts/class.php:210
+#: elementor/authors/class.php:128
+msgid "Order by"
+msgstr "ترتيب حسب"
+
+#: elementor/posts/class.php:214 elementor/authors/class.php:132
+msgid "Order by post ID"
+msgstr "ترتيب حسب معرف المنشور"
+
+#: elementor/title/class.php:353 elementor/infobox/class.php:289
+#: elementor/infobox/class.php:436 elementor/infobox/class.php:701
+#: elementor/pricing/class.php:334 elementor/pricing/class.php:547
+msgid "Padding"
+msgstr "المساحة الداخلية"
+
+#: inc/post-meta.php:192
+msgid "Padding Bottom"
+msgstr "المساحة السفلية"
+
+#: inc/post-meta.php:187
+msgid "Padding Top"
+msgstr "المساحة العلوية"
+
+#: inc/post-meta.php:202
+msgid "Page/Post Background Color"
+msgstr "لون خلفية الصفحة/المنشور"
+
+#: inc/post-meta.php:197
+msgid "Page/Post Background Image"
+msgstr "صورة خلفية الصفحة/المنشور"
+
+#: elementor/el-extend.php:28 elementor/el-extend.php:73
+msgid "Parallax"
+msgstr "تأثير البارالاكس"
+
+#: elementor/el-extend.php:55 elementor/el-extend.php:100
+msgid "Parallax Transition off?"
+msgstr "إيقاف انتقال البارالاكس؟"
+
+#: elementor/base.php:157
+msgid "Parent"
+msgstr "الأصل"
+
+#. %s: taxonomy name
+#: inc/rt-posts.php:132
+#, php-format
+msgid "Parent %s"
+msgstr "الأصل %s"
+
+#. %s: taxonomy name
+#: inc/rt-posts.php:134
+#, php-format
+msgid "Parent %s:"
+msgstr "الأصل %s:"
+
+#: widgets/about.php:83
+msgid "Phone"
+msgstr "الهاتف"
+
+#: widgets/addvertise.php:76
+msgid "Phone Number"
+msgstr "رقم الهاتف"
+
+#: elementor/listing-locations/view-2.php:40
+msgid "Please Select a Location and Background"
+msgstr "يرجى اختيار موقع وخلفية"
+
+#: elementor/listing-locations/view-1.php:46
+msgid "Please Select a Location and Background image"
+msgstr "يرجى اختيار موقع وصورة خلفية"
+
+#. %s: taxonomy plural name
+#: inc/rt-posts.php:128
+#, php-format
+msgid "Popular %s"
+msgstr "الأكثر شعبية %s"
+
+#: widgets/advanced-search.php:123 elementor/search-form/class.php:53
+msgid "Popup"
+msgstr "نافذة منبثقة"
+
+#: elementor/posts/class.php:19
+msgid "Post"
+msgstr "منشور"
+
+#: elementor/base.php:153
+msgid "Post Author"
+msgstr "كاتب المنشور"
+
+#: elementor/posts/class.php:37
+msgid "Post Grid"
+msgstr "شبكة المنشورات"
+
+#: elementor/base.php:152
+msgid "Post Id"
+msgstr "معرف المنشور"
+
+#: elementor/posts/class.php:106 elementor/authors/class.php:61
+msgid "Post Limit"
+msgstr "حد المنشورات"
+
+#: elementor/posts/class.php:190
+msgid "Post offset"
+msgstr "إزاحة المنشور"
+
+#: elementor/authors/class.php:136
+msgid "Post parent ID"
+msgstr "معرف المنشور الأصلي"
+
+#: elementor/posts/class.php:117
+msgid "Post Source"
+msgstr "مصدر المنشور"
+
+#: elementor/pricing/class.php:102 elementor/pricing/class.php:214
+msgid "Price"
+msgstr "السعر"
+
+#: elementor/pricing/class.php:455
+msgid "Price Color"
+msgstr "لون السعر"
+
+#: elementor/pricing/class.php:474
+msgid "Price Gap"
+msgstr "فجوة السعر"
+
+#: elementor/pricing/class.php:133 elementor/pricing/class.php:245
+msgid "Price List"
+msgstr "قائمة الأسعار"
+
+#: elementor/pricing/class.php:447
+msgid "Price Style"
+msgstr "نمط السعر"
+
+#: elementor/pricing/class.php:465
+msgid "Price Typography"
+msgstr "طباعة السعر"
+
+#: elementor/pricing/class.php:23
+msgid "Pricing"
+msgstr "التسعير"
+
+#: elementor/testimonial/class.php:603
+msgid "Quote Icon"
+msgstr "أيقونة الاقتباس"
+
+#: elementor/testimonial/class.php:594
+msgid "Quote Icon Style"
+msgstr "نمط أيقونة الاقتباس"
+
+#: elementor/infobox/class.php:323 elementor/infobox/class.php:489
+#: elementor/infobox/class.php:534 elementor/pricing/class.php:323
+msgid "Radius"
+msgstr "نصف القطر"
+
+#. Author of the plugin
+msgid "RadiusTheme"
+msgstr "RadiusTheme"
+
+#: elementor/base.php:158
+msgid "Random"
+msgstr "عشوائي"
+
+#: elementor/posts/class.php:219 elementor/authors/class.php:139
+msgid "Random order"
+msgstr "ترتيب عشوائي"
+
+#: elementor/testimonial/class.php:80 elementor/testimonial/class.php:150
+msgid "Rating"
+msgstr "التقييم"
+
+#: elementor/testimonial/class.php:82
+msgid "Rating 1"
+msgstr "التقييم 1"
+
+#: elementor/testimonial/class.php:83
+msgid "Rating 2"
+msgstr "التقييم 2"
+
+#: elementor/testimonial/class.php:84
+msgid "Rating 3"
+msgstr "التقييم 3"
+
+#: elementor/testimonial/class.php:85
+msgid "Rating 4"
+msgstr "التقييم 4"
+
+#: elementor/testimonial/class.php:86
+msgid "Rating 5"
+msgstr "التقييم 5"
+
+#: elementor/posts/class.php:605
+msgid "Reading Time Visibility"
+msgstr "ظهور وقت القراءة"
+
+#: elementor/hooks.php:74 elementor/base.php:75 elementor/el-extend.php:188
+#: elementor/listing-locations/class.php:288 elementor/infobox/class.php:127
+#: elementor/infobox/class.php:150 elementor/infobox/class.php:179
+#: elementor/infobox/class.php:238
+msgid "Right"
+msgstr "يمين"
+
+#: inc/post-meta.php:67
+msgid "Right Sidebar"
+msgstr "الشريط الجانبي الأيمن"
+
+#. %s: post type plural name
+#. %s: taxonomy plural name
+#: inc/rt-posts.php:56 inc/rt-posts.php:126
+#, php-format
+msgid "Search %s"
+msgstr "بحث %s"
+
+#: widgets/advanced-search.php:134 elementor/search-form/class.php:89
+msgid "Search by Category"
+msgstr "البحث حسب الفئة"
+
+#: widgets/advanced-search.php:146
+msgid "Search by Custom Fields"
+msgstr "البحث حسب الحقول المخصصة"
+
+#: widgets/advanced-search.php:142
+msgid "Search by Google Location"
+msgstr "البحث حسب موقع جوجل"
+
+#: widgets/advanced-search.php:130 elementor/search-form/class.php:64
+msgid "Search by Keyword"
+msgstr "البحث حسب الكلمة الرئيسية"
+
+#: widgets/advanced-search.php:138
+msgid "Search by Local Location"
+msgstr "البحث حسب الموقع المحلي"
+
+#: elementor/search-form/class.php:77
+msgid "Search by Location"
+msgstr "البحث حسب الموقع"
+
+#: widgets/advanced-search.php:154
+msgid "Search by Price"
+msgstr "البحث حسب السعر"
+
+#: widgets/advanced-search.php:150
+msgid "Search by Rating"
+msgstr "البحث حسب التقييم"
+
+#: elementor/search-form/class.php:21 elementor/search-form/class.php:30
+msgid "Search Form"
+msgstr "نموذج البحث"
+
+#: widgets/advanced-search.php:120
+msgid "Search Style"
+msgstr "نمط البحث"
+
+#: elementor/title/class.php:23
+msgid "Section Title"
+msgstr "عنوان القسم"
+
+#: elementor/listing-locations/class.php:69
+msgid "Select Location"
+msgstr "اختيار الموقع"
+
+#: elementor/listing-locations/class.php:84
+msgid "Select location background image"
+msgstr "اختيار صورة خلفية الموقع"
+
+#: elementor/posts/class.php:140 elementor/posts/class.php:155
+msgid "Select post category's."
+msgstr "اختر فئات المنشور."
+
+#: elementor/posts/class.php:170
+msgid "Select post tag's."
+msgstr "اختر وسوم المنشور."
+
+#: elementor/posts/class.php:126 elementor/authors/class.php:79
+msgid "Select posts source that you like to show."
+msgstr "اختر مصدر المنشورات التي تريد عرضها."
+
+#. %s: taxonomy plural name
+#: inc/rt-posts.php:146
+#, php-format
+msgid "Separate %s with commas"
+msgstr "افصل %s بفواصل"
+
+#: inc/social-share.php:48
+msgid "Share:"
+msgstr "مشاركة:"
+
+#: elementor/listing-locations/class.php:266
+#: elementor/listing-locations/class.php:307
+#: elementor/listing-locations/class.php:319 elementor/posts/class.php:540
+#: elementor/posts/class.php:569 elementor/posts/class.php:581
+#: elementor/posts/class.php:607 elementor/posts/class.php:619
+#: elementor/posts/class.php:643 elementor/authors/class.php:450
+#: elementor/testimonial/class.php:152 elementor/testimonial/class.php:231
+#: elementor/testimonial/class.php:420
+msgid "Show"
+msgstr "إظهار"
+
+#: elementor/hooks.php:158 elementor/hooks.php:210
+msgid "Show Gallery Button"
+msgstr "إظهار زر المعرض"
+
+#: elementor/listing-locations/class.php:122
+msgid "Show Listing Counts"
+msgstr "إظهار عدد الإعلانات"
+
+#: elementor/hooks.php:162 elementor/hooks.php:214
+msgid "Show or Hide Listing On/Off. Default: On"
+msgstr "إظهار أو إخفاء الإعلان. الافتراضي: مُفعّل"
+
+#: elementor/hooks.php:175 elementor/hooks.php:227
+msgid "Show or Hide Listing Reviews Button. Default: On"
+msgstr "إظهار أو إخفاء زر التقييمات. الافتراضي: مُفعّل"
+
+#: elementor/hooks.php:171 elementor/hooks.php:223
+msgid "Show Reviews"
+msgstr "إظهار التقييمات"
+
+#: elementor/authors/class.php:448
+msgid "Show Social Icon"
+msgstr "إظهار أيقونة التواصل"
+
+#: elementor/title/class.php:175
+msgid "Show Title Line"
+msgstr "إظهار خط العنوان"
+
+#: elementor/listing-locations/class.php:60 elementor/testimonial/class.php:97
+msgid "Slider"
+msgstr "عارض"
+
+#: elementor/listing-locations/class.php:236
+msgid "Slider Options"
+msgstr "خيارات العارض"
+
+#: elementor/listing-locations/class.php:245
+#: elementor/testimonial/class.php:209
+msgid "Slider Per Group"
+msgstr "عارض لكل مجموعة"
+
+#: elementor/listing-locations/class.php:222
+#: elementor/listing-locations/class.php:483
+msgid "Small Mobile items"
+msgstr "عناصر الجوال الصغير"
+
+#: elementor/authors/class.php:440
+msgid "Social Icon"
+msgstr "أيقونة التواصل"
+
+#: elementor/posts/class.php:227 elementor/authors/class.php:146
+msgid "Sort order"
+msgstr "ترتيب الفرز"
+
+#: elementor/listing-locations/class.php:393
+#: elementor/testimonial/class.php:310
+msgid "Space"
+msgstr "مسافة"
+
+#: elementor/el-extend.php:40 elementor/el-extend.php:85
+#: elementor/listing-locations/class.php:381
+#: elementor/testimonial/class.php:298
+msgid "Speed"
+msgstr "السرعة"
+
+#: widgets/advanced-search.php:126 elementor/search-form/class.php:54
+#: elementor/pricing/class.php:168 elementor/pricing/class.php:271
+msgid "Standard"
+msgstr "قياسي"
+
+#: elementor/testimonial/class.php:584
+msgid "Star Active Color"
+msgstr "لون النجمة النشطة"
+
+#: elementor/testimonial/class.php:574
+msgid "Star Color"
+msgstr "لون النجمة"
+
+#: elementor/testimonial/class.php:565
+msgid "Star Style"
+msgstr "نمط النجمة"
+
+#: elementor/el-extend.php:136 elementor/listing-locations/class.php:44
+#: elementor/posts/class.php:45 elementor/authors/class.php:49
+#: elementor/search-form/class.php:38
+msgid "Style"
+msgstr "النمط"
+
+#: elementor/listing-locations/class.php:46 elementor/posts/class.php:49
+#: elementor/authors/class.php:53 elementor/search-form/class.php:40
+#: elementor/testimonial/class.php:110
+msgid "Style 1"
+msgstr "النمط 1"
+
+#: elementor/listing-locations/class.php:47 elementor/posts/class.php:50
+#: elementor/search-form/class.php:41 elementor/testimonial/class.php:111
+msgid "Style 2"
+msgstr "النمط 2"
+
+#: elementor/hooks.php:59 elementor/listing-locations/class.php:48
+msgid "Style 3"
+msgstr "النمط 3"
+
+#: elementor/title/class.php:49 elementor/title/class.php:188
+msgid "Sub Title"
+msgstr "العنوان الفرعي"
+
+#: elementor/title/class.php:196
+msgid "Sub Title Style"
+msgstr "نمط العنوان الفرعي"
+
+#: elementor/pricing/class.php:150 elementor/pricing/class.php:253
+msgid "Tab Name"
+msgstr "اسم التبويب"
+
+#: elementor/listing-locations/class.php:202
+#: elementor/listing-locations/class.php:447
+#: elementor/testimonial/class.php:364
+msgid "Tablet items"
+msgstr "عناصر الجهاز اللوحي"
+
+#: elementor/testimonial/class.php:22
+msgid "Testimonial"
+msgstr "شهادة"
+
+#: elementor/testimonial/class.php:114
+msgid "Testimonial Layout. Default: 1"
+msgstr "تخطيط الشهادة. الافتراضي: 1"
+
+#: elementor/testimonial/class.php:101
+msgid "Testimonial Layout. Default: Grid"
+msgstr "تخطيط الشهادة. الافتراضي: شبكة"
+
+#: elementor/testimonial/class.php:120
+msgid "Testimonial List"
+msgstr "قائمة الشهادات"
+
+#: elementor/title/class.php:82 elementor/infobox/class.php:98
+msgid "Text"
+msgstr "نص"
+
+#: elementor/infobox/class.php:168 elementor/infobox/class.php:227
+msgid "Text Alignment left/right"
+msgstr "محاذاة النص يسار/يمين"
+
+#: elementor/infobox/class.php:198
+msgid "Text Alignment top/bottom"
+msgstr "محاذاة النص أعلى/أسفل"
+
+#: elementor/pricing/class.php:622 elementor/pricing/class.php:743
+msgid "Text Color"
+msgstr "لون النص"
+
+#: elementor/pricing/class.php:614
+msgid "Text Style"
+msgstr "نمط النص"
+
+#. %s: html tags
+#: cl-hotel-core.php:99
+#, php-format
+msgid ""
+"The %1$sCL Hotel Optimization%2$s requires %1$sphp 7.2+%2$s. Please consider "
+"updating php version and know more about it <a href=\"https://wordpress."
+"org/about/requirements/\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: elementor/testimonial/class.php:418
+msgid "Thumb"
+msgstr "مصغرة"
+
+#: elementor/testimonial/class.php:450
+msgid "Thumb Size Height"
+msgstr "ارتفاع المصغرة"
+
+#: elementor/testimonial/class.php:429
+msgid "Thumb Size Width"
+msgstr "عرض المصغرة"
+
+#: elementor/testimonial/class.php:411
+msgid "Thumb Style"
+msgstr "نمط المصغرة"
+
+#: widgets/post.php:140
+msgid "Thumbnail Image"
+msgstr "صورة مصغرة"
+
+#: elementor/posts/class.php:242
+msgid "Thumbnail Style"
+msgstr "نمط الصورة المصغرة"
+
+#: elementor/posts/class.php:596
+msgid "Time Ago Format"
+msgstr "تنسيق الوقت المنقضي"
+
+#: elementor/base.php:154 widgets/newsletter.php:85 widgets/post.php:116
+#: widgets/post.php:122 widgets/advanced-search.php:116 widgets/about.php:75
+#: widgets/addvertise.php:68 elementor/posts/class.php:216
+#: elementor/authors/class.php:134 elementor/title/class.php:40
+#: elementor/title/class.php:114 elementor/infobox/class.php:65
+#: elementor/infobox/class.php:550 elementor/pricing/class.php:84
+#: elementor/pricing/class.php:196
+msgid "Title"
+msgstr "العنوان"
+
+#: elementor/title/class.php:99 elementor/testimonial/class.php:162
+#: elementor/pricing/class.php:54
+msgid "Title Alignment"
+msgstr "محاذاة العنوان"
+
+#: elementor/listing-locations/class.php:527 elementor/posts/class.php:293
+#: elementor/pricing/class.php:379
+msgid "Title Color"
+msgstr "لون العنوان"
+
+#: elementor/pricing/class.php:398
+msgid "Title Gap"
+msgstr "فجوة العنوان"
+
+#: elementor/listing-locations/class.php:538 elementor/posts/class.php:355
+msgid "Title Hover Color"
+msgstr "لون العنوان عند التمرير"
+
+#: elementor/title/class.php:159
+msgid "Title Line"
+msgstr "خط العنوان"
+
+#: elementor/posts/class.php:318
+msgid "Title Spacing"
+msgstr "تباعد العنوان"
+
+#: elementor/posts/class.php:286 elementor/title/class.php:122
+#: elementor/infobox/class.php:558 elementor/pricing/class.php:371
+msgid "Title Style"
+msgstr "نمط العنوان"
+
+#: elementor/listing-locations/class.php:554 elementor/pricing/class.php:389
+msgid "Title Typography"
+msgstr "طباعة العنوان"
+
+#: elementor/infobox/class.php:123 elementor/infobox/class.php:201
+msgid "Top"
+msgstr "أعلى"
+
+#: elementor/authors/class.php:23
+msgid "Top Authors"
+msgstr "أفضل الكتّاب"
+
+#: inc/post-meta.php:92
+msgid "Transparent Header"
+msgstr "ترويسة شفافة"
+
+#: elementor/posts/class.php:310
+msgid "Ttitle Character Limit"
+msgstr "حد أحرف العنوان"
+
+#: inc/post-meta.php:32
+msgid "Twitter"
+msgstr "Twitter"
+
+#: elementor/listing-locations/class.php:550 elementor/title/class.php:140
+#: elementor/title/class.php:214 elementor/title/class.php:278
+#: elementor/title/class.php:336 elementor/infobox/class.php:576
+#: elementor/infobox/class.php:625 elementor/infobox/class.php:684
+#: elementor/pricing/class.php:524 elementor/pricing/class.php:632
+#: elementor/pricing/class.php:753
+msgid "Typography"
+msgstr "الطباعة"
+
+#. %s: taxonomy name
+#: inc/rt-posts.php:140
+#, php-format
+msgid "Update %s"
+msgstr "تحديث %s"
+
+#. %s: post type name
+#: inc/rt-posts.php:71
+#, php-format
+msgid "Uploaded to this %s"
+msgstr "تم الرفع إلى هذا %s"
+
+#: elementor/posts/view-1.php:136 elementor/posts/view-2.php:84
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#. %s: post type name
+#. %s: post type plural name
+#. %s: taxonomy name
+#: inc/rt-posts.php:52 inc/rt-posts.php:54 inc/rt-posts.php:138
+#, php-format
+msgid "View %s"
+msgstr "عرض %s"
+
+#: elementor/posts/class.php:388
+msgid "Visible"
+msgstr "ظاهر"
+
+#: elementor/testimonial/class.php:138
+msgid "Web Designer"
+msgstr "Web Designer"
+
+#: elementor/el-extend.php:149 elementor/infobox/class.php:371
+msgid "Width"
+msgstr "العرض"
+
+#: widgets/post.php:144
+msgid "With Thumbnail"
+msgstr "مع صورة مصغرة"
+
+#: widgets/post.php:143
+msgid "Without Thumbnail"
+msgstr "بدون صورة مصغرة"
+
+#: elementor/testimonial/class.php:132
+msgid "WordPress Developer"
+msgstr "WordPress Developer"
+
+#: elementor/pricing/class.php:189
+msgid "Yearly"
+msgstr "سنوي"
+
+#: elementor/pricing/class.php:261
+msgid "Yearly Items"
+msgstr "عناصر سنوية"
+
+#: elementor/listing-locations/class.php:331
+#: elementor/listing-locations/class.php:343
+#: elementor/listing-locations/class.php:370
+#: elementor/testimonial/class.php:244 elementor/testimonial/class.php:257
+#: elementor/testimonial/class.php:286
+msgid "Yes"
+msgstr "نعم"

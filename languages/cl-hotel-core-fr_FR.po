@@ -1,0 +1,2131 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CL Hotel Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-25 10:00+0000\n"
+"PO-Revision-Date: 2026-08-25 10:00+0000\n"
+"Last-Translator: RadiusTheme\n"
+"Language-Team: French\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: polib\n"
+
+#: elementor/hooks.php:92
+msgid " Category Label"
+msgstr " Libellé de catégorie"
+
+#: elementor/pricing/class.php:104 elementor/pricing/class.php:165
+#: elementor/pricing/class.php:216
+msgid "$19.00"
+msgstr "$19.00"
+
+#: elementor/pricing/class.php:175
+msgid "$199.00"
+msgstr "$199.00"
+
+#: elementor/pricing/class.php:170 elementor/pricing/class.php:268
+msgid "$39.00"
+msgstr "$39.00"
+
+#: elementor/pricing/class.php:278
+msgid "$499.00"
+msgstr "$499.00"
+
+#: elementor/pricing/class.php:273
+msgid "$99.00"
+msgstr "$99.00"
+
+#: elementor/posts/view-1.php:126 elementor/posts/view-2.php:139
+msgid "% Comments"
+msgstr "% Commentaires"
+
+#. %s: post type name
+#: inc/rt-posts.php:87
+#, php-format
+msgid "%s  updated."
+msgstr "%s mis à jour."
+
+#. %s: post type name
+#: inc/rt-posts.php:65
+#, php-format
+msgid "%s Archives"
+msgstr "Archives %s"
+
+#. %s: post type name
+#: inc/rt-posts.php:67
+#, php-format
+msgid "%s Attributes"
+msgstr "Attributs %s"
+
+#. %s: post type plural name
+#: inc/rt-posts.php:60
+#, php-format
+msgid "%s found in Trash"
+msgstr "%s trouvé dans la corbeille"
+
+#. %s: post type plural name
+#. %s: taxonomy plural name
+#: inc/rt-posts.php:77 inc/rt-posts.php:158
+#, php-format
+msgid "%s list"
+msgstr "Liste %s"
+
+#. %s: post type plural name
+#. %s: taxonomy plural name
+#: inc/rt-posts.php:75 inc/rt-posts.php:156
+#, php-format
+msgid "%s list navigation"
+msgstr "Navigation liste %s"
+
+#. %s: Number of listings.
+#: elementor/authors/view.php:65
+#, php-format
+msgid "%s Listing"
+msgid_plural "%s Listings"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: post type plural name
+#: inc/rt-posts.php:58
+#, php-format
+msgid "%s not found"
+msgstr "%s non trouvé"
+
+#. %s: post type name
+#: inc/rt-posts.php:81
+#, php-format
+msgid "%s published privately."
+msgstr "%s publié en privé."
+
+#. %s: post type name
+#: inc/rt-posts.php:79
+#, php-format
+msgid "%s published."
+msgstr "%s publié."
+
+#. %s: post type name
+#: inc/rt-posts.php:83
+#, php-format
+msgid "%s reverted to draft."
+msgstr "%s remis en brouillon."
+
+#. %s: post type name
+#: inc/rt-posts.php:85
+#, php-format
+msgid "%s scheduled."
+msgstr "%s programmé."
+
+#. %s: taxonomy plural name
+#: inc/rt-posts.php:160
+#, php-format
+msgid "&larr; Back to %s"
+msgstr "&larr; Retour à %s"
+
+#: elementor/base.php:98
+msgid "1"
+msgstr "1"
+
+#: elementor/base.php:87 elementor/posts/class.php:26
+msgid "1 Columns"
+msgstr "1 Colonne"
+
+#: elementor/posts/view-1.php:125 elementor/posts/view-2.php:138
+msgid "1 Comment"
+msgstr "1 Commentaire"
+
+#: elementor/base.php:112
+msgid "1000"
+msgstr "1000"
+
+#: elementor/base.php:113
+msgid "1500"
+msgstr "1500"
+
+#: elementor/base.php:99
+msgid "2"
+msgstr "2"
+
+#: elementor/base.php:88 elementor/posts/class.php:25
+msgid "2 Columns"
+msgstr "2 Colonnes"
+
+#: elementor/base.php:122
+msgid "200"
+msgstr "200"
+
+#: elementor/base.php:114
+msgid "2000"
+msgstr "2000"
+
+#: elementor/base.php:115
+msgid "2500"
+msgstr "2500"
+
+#: elementor/base.php:100
+msgid "3"
+msgstr "3"
+
+#: elementor/base.php:89 elementor/posts/class.php:24
+msgid "3 Columns"
+msgstr "3 Colonnes"
+
+#: elementor/base.php:123
+msgid "300"
+msgstr "300"
+
+#: elementor/base.php:116
+msgid "3000"
+msgstr "3000"
+
+#: elementor/base.php:101
+msgid "4"
+msgstr "4"
+
+#: elementor/base.php:90 elementor/posts/class.php:23
+msgid "4 Columns"
+msgstr "4 Colonnes"
+
+#: elementor/base.php:124
+msgid "400"
+msgstr "400"
+
+#: elementor/base.php:102
+msgid "5"
+msgstr "5"
+
+#: elementor/base.php:91
+msgid "5 Columns"
+msgstr "5 Colonnes"
+
+#: elementor/base.php:111 elementor/base.php:125
+msgid "500"
+msgstr "500"
+
+#: elementor/base.php:103
+msgid "6"
+msgstr "6"
+
+#: elementor/base.php:92
+msgid "6 Columns"
+msgstr "6 Colonnes"
+
+#: elementor/base.php:126
+msgid "600"
+msgstr "600"
+
+#: elementor/base.php:104
+msgid "7"
+msgstr "7"
+
+#: elementor/base.php:127
+msgid "700"
+msgstr "700"
+
+#: elementor/base.php:105
+msgid "8"
+msgstr "8"
+
+#: elementor/base.php:128
+msgid "800"
+msgstr "800"
+
+#: elementor/base.php:129
+msgid "900"
+msgstr "900"
+
+#. Base ID
+#: widgets/about.php:18
+msgid "A1: About"
+msgstr "A1: À propos"
+
+#. Base ID
+#: widgets/post.php:18
+msgid "A2: Posts"
+msgstr "A2: Articles"
+
+#. Base ID
+#: widgets/newsletter.php:18
+msgid "A3: Newsletter"
+msgstr "A3: Newsletter"
+
+#. Base ID
+#: widgets/advanced-search.php:21
+msgid "A4: Advanced Search"
+msgstr "A4: Recherche avancée"
+
+#. Base ID
+#: widgets/addvertise.php:18
+msgid "A8: Advertise"
+msgstr "A8: Publicité"
+
+#: widgets/advanced-search.php:23
+msgid "Add advanced search field"
+msgstr "Ajouter un champ de recherche avancée"
+
+#: elementor/listing-locations/class.php:92
+msgid "Add as many locations as you want"
+msgstr "Ajoutez autant d'emplacements que vous le souhaitez"
+
+#: inc/post-meta.php:216
+msgid "Add Faq"
+msgstr "Ajouter FAQ"
+
+#: inc/rt-posts.php:44
+msgid "Add New"
+msgstr "Ajouter"
+
+#. %s: post type name
+#. %s: taxonomy name
+#: inc/rt-posts.php:46 inc/rt-posts.php:142
+#, php-format
+msgid "Add New %s"
+msgstr "Ajouter %s"
+
+#. %s: taxonomy plural name
+#: inc/rt-posts.php:148
+#, php-format
+msgid "Add or remove %s"
+msgstr "Ajouter ou supprimer %s"
+
+#: widgets/about.php:79
+msgid "Address"
+msgstr "Adresse"
+
+#: widgets/advanced-search.php:91
+msgid "Advanced Search"
+msgstr "Recherche avancée"
+
+#: elementor/authors/class.php:328
+msgid "Agency Color"
+msgstr "Couleur de l'agence"
+
+#: elementor/authors/class.php:356
+msgid "Agency Color - Hover"
+msgstr "Couleur de l'agence - Survol"
+
+#: elementor/authors/class.php:291
+msgid "Agency Spacing"
+msgstr "Espacement de l'agence"
+
+#: elementor/authors/class.php:264
+msgid "Agency Typography"
+msgstr "Typographie de l'agence"
+
+#: elementor/authors/class.php:110
+msgid "Agent offset"
+msgstr "Décalage de l'agent"
+
+#: elementor/authors/class.php:71
+msgid "Agent Source"
+msgstr "Source de l'agent"
+
+#: elementor/el-extend.php:176
+msgid "Alignment"
+msgstr "Alignement"
+
+#: elementor/testimonial/class.php:139
+msgid ""
+"Aliquid expedita recusandae ipsam quas fugit aperiam nihil nemo delectus "
+"laudantium? Enim est quibusdam dicta a"
+msgstr ""
+
+#. %s: post type plural name
+#. %s: taxonomy plural name
+#: inc/rt-posts.php:63 inc/rt-posts.php:130
+#, php-format
+msgid "All %s"
+msgstr "Tous les %s"
+
+#: elementor/base.php:236 widgets/post.php:108
+msgid "All Categories"
+msgstr "Toutes les catégories"
+
+#: elementor/listing-locations/class.php:264
+#: elementor/listing-locations/class.php:317
+#: elementor/testimonial/class.php:229
+msgid "Arrow"
+msgstr "Flèche"
+
+#: elementor/posts/class.php:230 elementor/authors/class.php:149
+msgid "ASC"
+msgstr "ASC"
+
+#: elementor/posts/class.php:215 elementor/authors/class.php:133
+msgid "Author"
+msgstr "Auteur"
+
+#: elementor/posts/class.php:550
+msgid "Author Avatar Style"
+msgstr "Style de l'avatar"
+
+#: elementor/posts/class.php:554
+msgid "Author Icon"
+msgstr "Icône de l'auteur"
+
+#: elementor/posts/class.php:555
+msgid "Author Image"
+msgstr "Image de l'auteur"
+
+#: elementor/posts/class.php:538
+msgid "Author Visibility"
+msgstr "Visibilité de l'auteur"
+
+#: elementor/authors/class.php:42
+msgid "Authors"
+msgstr "Auteurs"
+
+#: widgets/advanced-search.php:124 elementor/search-form/class.php:55
+msgid "Auto Suggestion"
+msgstr "Suggestion automatique"
+
+#: elementor/listing-locations/class.php:341
+#: elementor/testimonial/class.php:255
+msgid "Autoplay"
+msgstr "Lecture automatique"
+
+#: elementor/listing-locations/class.php:353
+#: elementor/testimonial/class.php:268
+msgid "Autoplay Speed"
+msgstr "Vitesse de lecture"
+
+#: elementor/authors/class.php:401 elementor/authors/class.php:468
+#: elementor/authors/class.php:501 elementor/title/class.php:167
+#: elementor/title/class.php:241 elementor/title/class.php:344
+#: elementor/title/class.php:390 elementor/infobox/class.php:307
+#: elementor/infobox/class.php:473 elementor/infobox/class.php:518
+#: elementor/infobox/class.php:692 elementor/infobox/class.php:738
+#: elementor/pricing/class.php:300 elementor/pricing/class.php:356
+#: elementor/pricing/class.php:532 elementor/pricing/class.php:584
+#: elementor/pricing/class.php:761
+msgid "Background"
+msgstr "Arrière-plan"
+
+#: elementor/pricing/class.php:536 elementor/pricing/class.php:765
+msgid "Background Color"
+msgstr "Couleur d'arrière-plan"
+
+#: elementor/authors/class.php:405 elementor/authors/class.php:472
+#: elementor/authors/class.php:505
+msgid "Background color"
+msgstr "Couleur d'arrière-plan"
+
+#: elementor/listing-locations/class.php:80
+msgid "Background Image"
+msgstr "Image d'arrière-plan"
+
+#: widgets/addvertise.php:72
+msgid "background image"
+msgstr "image d'arrière-plan"
+
+#: elementor/pricing/class.php:735
+msgid "Badge Style"
+msgstr "Style de badge"
+
+#: elementor/pricing/class.php:140
+msgid "Badge Text"
+msgstr "Texte de badge"
+
+#: elementor/pricing/class.php:163 elementor/pricing/class.php:266
+msgid "Basic"
+msgstr "Base"
+
+#: elementor/title/class.php:233 elementor/title/class.php:363
+#: elementor/title/class.php:398 elementor/infobox/class.php:299
+#: elementor/infobox/class.php:446 elementor/infobox/class.php:711
+#: elementor/infobox/class.php:746 elementor/testimonial/class.php:633
+#: elementor/pricing/class.php:314 elementor/pricing/class.php:557
+#: elementor/pricing/class.php:592
+msgid "Border"
+msgstr "Bordure"
+
+#: elementor/testimonial/class.php:471
+msgid "Border Radius"
+msgstr "Rayon de bordure"
+
+#: elementor/infobox/class.php:209
+msgid "Bottom"
+msgstr "Bas"
+
+#: elementor/listing-locations/class.php:517 elementor/pricing/class.php:304
+msgid "Box Background"
+msgstr "Arrière-plan boîte"
+
+#: elementor/testimonial/class.php:623
+msgid "Box Color"
+msgstr "Couleur boîte"
+
+#: elementor/listing-locations/class.php:100
+msgid "Box Height"
+msgstr "Hauteur boîte"
+
+#: elementor/posts/class.php:509
+msgid "Box Hover"
+msgstr "Boîte survol"
+
+#: inc/post-meta.php:117
+msgid "Box layout"
+msgstr "Mise en page boîte"
+
+#: elementor/testimonial/class.php:614 elementor/pricing/class.php:291
+msgid "Box Style"
+msgstr "Style boîte"
+
+#: inc/post-meta.php:162
+msgid "Breadcrumb Area"
+msgstr "Zone fil d'Ariane"
+
+#: inc/post-meta.php:177
+msgid "Breadcrumb Background Color"
+msgstr "Couleur de fond fil d'Ariane"
+
+#: inc/post-meta.php:172
+msgid "Breadcrumb Background Image"
+msgstr "Image de fond fil d'Ariane"
+
+#: inc/post-meta.php:182
+msgid "Breadcrumb Background Opacity"
+msgstr "Opacité de fond fil d'Ariane"
+
+#: elementor/posts/class.php:641 elementor/title/class.php:300
+#: elementor/infobox/class.php:648 elementor/pricing/class.php:488
+msgid "Button"
+msgstr "Bouton"
+
+#: elementor/posts/class.php:634
+msgid "Button Settings"
+msgstr "Paramètres du bouton"
+
+#: elementor/title/class.php:308 elementor/infobox/class.php:656
+#: elementor/pricing/class.php:496
+msgid "Button Style"
+msgstr "Style du bouton"
+
+#: elementor/posts/class.php:652 elementor/pricing/class.php:111
+#: elementor/pricing/class.php:223
+msgid "Button Text"
+msgstr "Texte du bouton"
+
+#: elementor/authors/class.php:75
+msgid "By Agency"
+msgstr "Par agence"
+
+#: elementor/authors/class.php:76
+msgid "By Agent ID"
+msgstr "Par ID d'agent"
+
+#: elementor/posts/class.php:122
+msgid "By Category"
+msgstr "Par catégorie"
+
+#: elementor/posts/class.php:121
+msgid "By Post ID"
+msgstr "Par ID d'article"
+
+#: elementor/posts/class.php:123
+msgid "By Tags"
+msgstr "Par tags"
+
+#: elementor/testimonial/class.php:200
+msgid "Carousel Settings"
+msgstr "Paramètres du carrousel"
+
+#: widgets/post.php:126
+msgid "Category"
+msgstr "Catégorie"
+
+#: elementor/posts/class.php:579
+msgid "Category Visibility"
+msgstr "Visibilité catégorie"
+
+#: elementor/hooks.php:70 elementor/base.php:71 elementor/el-extend.php:184
+#: elementor/listing-locations/class.php:284 elementor/infobox/class.php:146
+#: elementor/infobox/class.php:175 elementor/infobox/class.php:234
+msgid "Center"
+msgstr "Centre"
+
+#: elementor/listing-locations/class.php:368
+#: elementor/testimonial/class.php:284
+msgid "Centered Slides"
+msgstr "Diapositives centrées"
+
+#: elementor/testimonial/class.php:126
+msgid "CEO, PSDBOSS"
+msgstr "CEO, PSDBOSS"
+
+#: elementor/authors/class.php:85
+msgid "Choose Agency"
+msgstr "Choisir l'agence"
+
+#: elementor/posts/class.php:147
+msgid "Choose Categories"
+msgstr "Choisir les catégories"
+
+#. %s: taxonomy plural name
+#: inc/rt-posts.php:150
+#, php-format
+msgid "Choose from the most used %s"
+msgstr "Choisir parmi les %s les plus utilisés"
+
+#: elementor/testimonial/class.php:44
+msgid "Choose Image"
+msgstr "Choisir l'image"
+
+#: elementor/posts/class.php:162
+msgid "Choose Tags"
+msgstr "Choisir les tags"
+
+#: elementor/posts/class.php:132
+msgid "Choose Titles"
+msgstr "Choisir les titres"
+
+#. Name of the plugin
+msgid "CL Hotel Core"
+msgstr "CL Hotel Core"
+
+#. Description of the plugin
+msgid "CL Hotel Core Plugin for Listing Hotel Theme"
+msgstr "Plugin CL Hotel Core pour thème hôtelier"
+
+#: elementor/init.php:114
+msgid "CL Hotel Elements"
+msgstr "Éléments CL Hotel"
+
+#: widgets/newsletter.php:19
+msgid "CL Hotel: Newsletter Widget"
+msgstr "CL Hotel: Widget newsletter"
+
+#: elementor/authors/class.php:383 elementor/authors/class.php:482
+#: elementor/authors/class.php:515 elementor/title/class.php:130
+#: elementor/title/class.php:204 elementor/title/class.php:268
+#: elementor/title/class.php:326 elementor/title/class.php:380
+#: elementor/infobox/class.php:463 elementor/infobox/class.php:508
+#: elementor/infobox/class.php:566 elementor/infobox/class.php:615
+#: elementor/infobox/class.php:674 elementor/infobox/class.php:728
+#: elementor/pricing/class.php:514 elementor/pricing/class.php:574
+msgid "Color"
+msgstr "Couleur"
+
+#: elementor/listing-locations/class.php:166 elementor/authors/class.php:227
+msgid "Columns Gap"
+msgstr "Espacement colonnes"
+
+#: elementor/base.php:159
+msgid "Comment Count"
+msgstr "Nombre de commentaires"
+
+#: elementor/posts/class.php:617
+msgid "Comment Visibility"
+msgstr "Visibilité commentaires"
+
+#: elementor/posts/view-1.php:127 elementor/posts/view-2.php:140
+msgid "Comments are Closed"
+msgstr "Les commentaires sont fermés"
+
+#: elementor/testimonial/class.php:72 elementor/testimonial/class.php:547
+#: elementor/testimonial/class.php:557
+msgid "Content"
+msgstr "Contenu"
+
+#: elementor/posts/class.php:448
+msgid "Content Color"
+msgstr "Couleur du contenu"
+
+#: elementor/testimonial/class.php:404 elementor/testimonial/class.php:538
+msgid "Content Style"
+msgstr "Style du contenu"
+
+#: inc/post-meta.php:152
+msgid "Copyright Area"
+msgstr "Zone copyright"
+
+#: elementor/listing-locations/class.php:562
+msgid "Count Color"
+msgstr "Couleur du compteur"
+
+#: elementor/listing-locations/class.php:573
+msgid "Count Hover Color"
+msgstr "Couleur compteur survol"
+
+#: elementor/authors/class.php:415
+msgid "Counting Spacing"
+msgstr "Espacement du compteur"
+
+#: elementor/infobox/class.php:257
+msgid "CSS Clasess"
+msgstr "CSS Clasess"
+
+#: elementor/search-form/class.php:101
+msgid "Css class"
+msgstr "Classe CSS"
+
+#: widgets/post.php:80
+msgid "Currently there are no posts to display"
+msgstr "Il n'y a actuellement aucun article à afficher"
+
+#: elementor/posts/class.php:62 elementor/authors/class.php:162
+msgid "Custom"
+msgstr "Personnalisé"
+
+#: widgets/post.php:117
+msgid "Custom Order (Available via Order field inside Page Attributes box)"
+msgstr "Ordre personnalisé (disponible via le champ Ordre dans Attributs de page)"
+
+#: elementor/base.php:155 elementor/posts/class.php:213
+#: elementor/authors/class.php:131
+msgid "Date"
+msgstr "Date"
+
+#: widgets/post.php:115
+msgid "Date (Recents comes first)"
+msgstr "Date (récents en premier)"
+
+#: elementor/posts/class.php:591
+msgid "Date Format"
+msgstr "Format de date"
+
+#: elementor/posts/class.php:567
+msgid "Date Visibility"
+msgstr "Visibilité date"
+
+#: inc/post-meta.php:50 inc/post-meta.php:64 inc/post-meta.php:75
+#: inc/post-meta.php:85 inc/post-meta.php:95 inc/post-meta.php:105
+#: inc/post-meta.php:115 inc/post-meta.php:125 inc/post-meta.php:135
+#: inc/post-meta.php:145 inc/post-meta.php:155 inc/post-meta.php:165
+#: elementor/el-extend.php:140 elementor/posts/class.php:61
+#: elementor/authors/class.php:161
+msgid "Default"
+msgstr "Par défaut"
+
+#: inc/post-meta.php:194
+msgid "default banner padding bottom will be used 100 \"px\""
+msgstr ""
+
+#: inc/post-meta.php:189
+msgid "default banner padding top will be used 100 \"px\""
+msgstr ""
+
+#: elementor/posts/class.php:595
+msgid "Default From Settings"
+msgstr "Par défaut depuis paramètres"
+
+#: elementor/base.php:205
+msgid "Default Image Size"
+msgstr "Taille d'image par défaut"
+
+#: widgets/advanced-search.php:125 elementor/search-form/class.php:56
+msgid "Dependency Selection"
+msgstr "Sélection de dépendance"
+
+#: elementor/posts/class.php:231 elementor/authors/class.php:150
+msgid "DESC"
+msgstr "DESC"
+
+#: inc/post-meta.php:224 widgets/newsletter.php:89 elementor/title/class.php:74
+#: elementor/title/class.php:252 elementor/infobox/class.php:90
+#: elementor/infobox/class.php:599 elementor/pricing/class.php:93
+#: elementor/pricing/class.php:205
+msgid "Description"
+msgstr "Description"
+
+#: elementor/pricing/class.php:417
+msgid "Description Color"
+msgstr "Couleur description"
+
+#: elementor/pricing/class.php:436
+msgid "Description Gap"
+msgstr "Espacement description"
+
+#: elementor/title/class.php:260 elementor/infobox/class.php:607
+#: elementor/pricing/class.php:409
+msgid "Description Style"
+msgstr "Style description"
+
+#: elementor/pricing/class.php:427
+msgid "Description Typography"
+msgstr "Typographie description"
+
+#: elementor/listing-locations/class.php:513 elementor/testimonial/class.php:63
+#: elementor/testimonial/class.php:520 elementor/testimonial/class.php:530
+msgid "Designation"
+msgstr "Désignation"
+
+#: elementor/testimonial/class.php:511
+msgid "Designation Style"
+msgstr "Style désignation"
+
+#: elementor/listing-locations/class.php:182
+#: elementor/listing-locations/class.php:411
+#: elementor/testimonial/class.php:328
+msgid "Desktop items"
+msgstr "Éléments bureau"
+
+#: inc/post-meta.php:167
+msgid "Disable"
+msgstr "Désactiver"
+
+#: inc/post-meta.php:77 inc/post-meta.php:97 inc/post-meta.php:107
+#: inc/post-meta.php:127 inc/post-meta.php:137 inc/post-meta.php:157
+msgid "Disabled"
+msgstr "Désactivé"
+
+#: elementor/listing-locations/class.php:305
+msgid "Dots"
+msgstr "Points"
+
+#. %s: post type name
+#. %s: taxonomy name
+#: inc/rt-posts.php:48 inc/rt-posts.php:136
+#, php-format
+msgid "Edit %s"
+msgstr "Modifier %s"
+
+#: widgets/about.php:87 widgets/addvertise.php:80
+msgid "Email"
+msgstr "E-mail"
+
+#: inc/post-meta.php:166
+msgid "Enable"
+msgstr "Activer"
+
+#: elementor/listing-locations/class.php:132
+msgid "Enable Link"
+msgstr "Activer le lien"
+
+#: elementor/search-form/class.php:94
+msgid "Enable or disable search by category. Default: On"
+msgstr "Activer ou désactiver la recherche par catégorie. Par défaut : Activé"
+
+#: elementor/search-form/class.php:69
+msgid "Enable or disable search by keyword. Default: On"
+msgstr "Activer ou désactiver la recherche par mot-clé. Par défaut : Activé"
+
+#: elementor/search-form/class.php:82
+msgid "Enable or disable search by location. Default: On"
+msgstr "Activer ou désactiver la recherche par emplacement. Par défaut : Activé"
+
+#: inc/post-meta.php:76 inc/post-meta.php:96 inc/post-meta.php:106
+#: inc/post-meta.php:126 inc/post-meta.php:136 inc/post-meta.php:156
+msgid "Enabled"
+msgstr "Activé"
+
+#: elementor/testimonial/class.php:127
+msgid ""
+"Engage with our professional real estate agents sell Following buy or rent "
+"your home.Get emails directly to your area reach inbox and manage the lead "
+"with."
+msgstr ""
+
+#: elementor/authors/class.php:98
+msgid "Enter Agent IDs"
+msgstr "Entrer les IDs d'agents"
+
+#: elementor/pricing/class.php:95 elementor/pricing/class.php:207
+msgid "Enter Description"
+msgstr "Entrer la description"
+
+#: elementor/testimonial/class.php:65 elementor/testimonial/class.php:74
+msgid "Enter Designation"
+msgstr "Entrer la désignation"
+
+#: elementor/testimonial/class.php:56
+msgid "Enter Name"
+msgstr "Entrer le nom"
+
+#: elementor/posts/class.php:109 elementor/authors/class.php:64
+msgid "Enter number of post to show."
+msgstr "Entrez le nombre d'articles à afficher."
+
+#: elementor/posts/class.php:108 elementor/authors/class.php:63
+msgid "Enter Post Limit"
+msgstr "Entrer la limite d'articles"
+
+#: elementor/posts/class.php:192 elementor/authors/class.php:112
+msgid "Enter Post offset"
+msgstr "Entrer le décalage"
+
+#: elementor/authors/class.php:100
+msgid "Enter the agent IDs separated by comma"
+msgstr "Entrez les IDs d'agents séparés par des virgules"
+
+#: elementor/posts/class.php:203 elementor/authors/class.php:122
+msgid "Enter the post IDs separated by comma for exclude"
+msgstr "Entrez les IDs à exclure séparés par des virgules"
+
+#: elementor/pricing/class.php:86 elementor/pricing/class.php:198
+msgid "Enter Title"
+msgstr "Entrer le titre"
+
+#: elementor/pricing/class.php:173 elementor/pricing/class.php:276
+msgid "Enterprise"
+msgstr "Entreprise"
+
+#: elementor/posts/class.php:403
+msgid "Excerpt Limit"
+msgstr "Limite d'extrait"
+
+#: elementor/posts/class.php:425
+msgid "Excerpt Spacing"
+msgstr "Espacement extrait"
+
+#: elementor/posts/class.php:376
+msgid "Excerpt Style"
+msgstr "Style extrait"
+
+#: elementor/posts/class.php:384
+msgid "Excerpt Visibility"
+msgstr "Visibilité extrait"
+
+#: elementor/authors/class.php:119
+msgid "Exclude agent"
+msgstr "Exclure l'agent"
+
+#: elementor/posts/class.php:200
+msgid "Exclude posts"
+msgstr "Exclure des articles"
+
+#: elementor/search-form/class.php:102
+msgid "Extra class for css, if need"
+msgstr "Classe CSS supplémentaire, si nécessaire"
+
+#: inc/post-meta.php:26
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/post-meta.php:212
+msgid "Faq List"
+msgstr "Liste FAQ"
+
+#: inc/post-meta.php:219
+msgid "Faq Title"
+msgstr "Titre FAQ"
+
+#: elementor/pricing/class.php:605
+msgid "Features Style"
+msgstr "Style des fonctionnalités"
+
+#. %s: post type plural name
+#: inc/rt-posts.php:73
+#, php-format
+msgid "Filter %s list"
+msgstr "Filtrer liste %s"
+
+#: elementor/init.php:51
+msgid "Fontello Icons"
+msgstr "Icônes Fontello"
+
+#: inc/post-meta.php:132
+msgid "Footer Area"
+msgstr "Zone pied de page"
+
+#: inc/post-meta.php:142
+msgid "Footer Layout"
+msgstr "Mise en page pied de page"
+
+#: inc/post-meta.php:122
+msgid "Footer Newsletter"
+msgstr "Newsletter pied de page"
+
+#: widgets/newsletter.php:93
+msgid "Form Shortcode"
+msgstr "Code court formulaire"
+
+#: elementor/authors/class.php:74
+msgid "From all recent agent"
+msgstr "De tous les agents récents"
+
+#: elementor/posts/class.php:120
+msgid "From all recent post"
+msgstr "De tous les articles récents"
+
+#: elementor/base.php:209
+msgid "Full Size"
+msgstr "Taille réelle"
+
+#: inc/post-meta.php:65
+msgid "Full Width"
+msgstr "Pleine largeur"
+
+#: inc/post-meta.php:116
+msgid "Full width layout"
+msgstr "Mise en page pleine largeur"
+
+#: elementor/listing-locations/class.php:170 elementor/authors/class.php:231
+msgid "Gap 1"
+msgstr "Espace 1"
+
+#: elementor/listing-locations/class.php:171 elementor/authors/class.php:232
+msgid "Gap 2"
+msgstr "Espace 2"
+
+#: elementor/listing-locations/class.php:172 elementor/authors/class.php:233
+msgid "Gap 3"
+msgstr "Espace 3"
+
+#: elementor/listing-locations/class.php:173 elementor/authors/class.php:234
+msgid "Gap 4"
+msgstr "Espace 4"
+
+#: elementor/listing-locations/class.php:174 elementor/authors/class.php:235
+msgid "Gap 5"
+msgstr "Espace 5"
+
+#: elementor/pricing/class.php:639
+msgid "Gap between icon and text"
+msgstr "Espace entre icône et texte"
+
+#: elementor/listing-locations/class.php:36 elementor/title/class.php:32
+#: elementor/infobox/class.php:46 elementor/testimonial/class.php:35
+#: elementor/pricing/class.php:46
+msgid "General"
+msgstr "Général"
+
+#: elementor/pricing/class.php:113 elementor/pricing/class.php:225
+msgid "Get It Now"
+msgstr "Obtenez-le maintenant"
+
+#: elementor/listing-locations/class.php:59 elementor/testimonial/class.php:98
+msgid "Grid"
+msgstr "Grille"
+
+#: elementor/posts/class.php:59 elementor/authors/class.php:159
+msgid "Grid Column"
+msgstr "Colonne de grille"
+
+#: elementor/posts/class.php:71 elementor/authors/class.php:171
+msgid "Grid Column for Desktop"
+msgstr "Colonne bureau"
+
+#: elementor/authors/class.php:182
+msgid "Grid Column for Medium Desktop"
+msgstr "Colonne bureau moyen"
+
+#: elementor/posts/class.php:93 elementor/authors/class.php:204
+msgid "Grid Column for Mobile"
+msgstr "Colonne mobile"
+
+#: elementor/authors/class.php:215
+msgid "Grid Column for Small Mobile"
+msgstr "Colonne petit mobile"
+
+#: elementor/posts/class.php:82
+msgid "Grid Column for Tab"
+msgstr "Colonne onglet"
+
+#: elementor/authors/class.php:193
+msgid "Grid Column for Tablet"
+msgstr "Colonne tablette"
+
+#: elementor/testimonial/class.php:186
+msgid "Grid Columns"
+msgstr "Colonnes de grille"
+
+#: elementor/listing-locations/class.php:158
+msgid "Grid Options"
+msgstr "Options de grille"
+
+#: elementor/testimonial/class.php:178
+msgid "Grid Settings"
+msgstr "Paramètres de grille"
+
+#: elementor/pricing/class.php:164 elementor/pricing/class.php:169
+#: elementor/pricing/class.php:174 elementor/pricing/class.php:267
+#: elementor/pricing/class.php:272 elementor/pricing/class.php:277
+msgid "Hahean anunknown printer took galley of type and scrambled"
+msgstr "Un imprimeur inconnu a pris une galée de caractères et les a mélangés"
+
+#: widgets/addvertise.php:59
+msgid "Have any Questions ? Call us today."
+msgstr "Vous avez des questions ? Appelez-nous aujourd'hui."
+
+#: inc/post-meta.php:102
+msgid "Header Area On/Off"
+msgstr "Zone en-tête On/Off"
+
+#: elementor/pricing/class.php:347
+msgid "Header Style"
+msgstr "Style en-tête"
+
+#: inc/post-meta.php:72
+msgid "Header top"
+msgstr "Haut de l'en-tête"
+
+#: inc/post-meta.php:82
+msgid "Header Top Layout"
+msgstr "Mise en page haut de l'en-tête"
+
+#: elementor/infobox/class.php:397
+msgid "Height"
+msgstr "Hauteur"
+
+#: elementor/posts/class.php:392
+msgid "Hidden"
+msgstr "Caché"
+
+#: elementor/listing-locations/class.php:267
+#: elementor/listing-locations/class.php:308
+#: elementor/listing-locations/class.php:320 elementor/posts/class.php:541
+#: elementor/posts/class.php:570 elementor/posts/class.php:582
+#: elementor/posts/class.php:608 elementor/posts/class.php:620
+#: elementor/posts/class.php:644 elementor/authors/class.php:451
+#: elementor/testimonial/class.php:153 elementor/testimonial/class.php:232
+#: elementor/testimonial/class.php:421
+msgid "Hide"
+msgstr "Masquer"
+
+#: widgets/about.php:19
+msgid "Hotel: About Widget"
+msgstr "Hôtel: Widget À propos"
+
+#: widgets/post.php:19
+msgid "Hotel: Posts Widget"
+msgstr "Hôtel: Widget Articles"
+
+#: widgets/addvertise.php:19
+msgid "Hotel: Service Widget"
+msgstr "Hôtel: Widget Services"
+
+#: elementor/posts/class.php:348 elementor/authors/class.php:340
+#: elementor/authors/class.php:494 elementor/title/class.php:373
+#: elementor/infobox/class.php:501 elementor/infobox/class.php:721
+#: elementor/pricing/class.php:567
+msgid "Hover"
+msgstr "Survol"
+
+#: elementor/title/class.php:58 elementor/infobox/class.php:74
+msgid "HTML Tag"
+msgstr "Balise HTML"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.radiustheme.com"
+msgstr "https://www.radiustheme.com"
+
+#: elementor/pricing/class.php:121 elementor/pricing/class.php:233
+msgid "https://your-link.com"
+msgstr "https://your-link.com"
+
+#: elementor/infobox/class.php:54
+msgid "Icon"
+msgstr "Icône"
+
+#: elementor/infobox/class.php:139
+msgid "Icon Alignment left/right"
+msgstr "Alignement icône gauche/droite"
+
+#: elementor/infobox/class.php:337
+msgid "Icon Box"
+msgstr "Boîte d'icône"
+
+#: elementor/listing-locations/class.php:584 elementor/pricing/class.php:676
+msgid "Icon Color"
+msgstr "Couleur icône"
+
+#: elementor/listing-locations/class.php:595
+msgid "Icon Hover Color"
+msgstr "Couleur icône survol"
+
+#: elementor/infobox/class.php:116
+msgid "Icon Position"
+msgstr "Position icône"
+
+#: elementor/infobox/class.php:344 elementor/pricing/class.php:685
+msgid "Icon Size"
+msgstr "Taille icône"
+
+#: elementor/pricing/class.php:668
+msgid "Icon Style"
+msgstr "Style icône"
+
+#: inc/post-meta.php:174 inc/post-meta.php:179 inc/post-meta.php:199
+#: inc/post-meta.php:204
+msgid "If not selected, default will be used"
+msgstr "Si non sélectionné, la valeur par défaut sera utilisée"
+
+#: elementor/listing-locations/class.php:374
+#: elementor/testimonial/class.php:290
+msgid ""
+"If you use centered slider options then default column will not working."
+msgstr ""
+
+#: widgets/newsletter.php:81
+msgid "Image"
+msgstr "Image"
+
+#: elementor/listing-locations/class.php:144
+msgid "Image Border Radius"
+msgstr "Rayon de bordure image"
+
+#: elementor/posts/class.php:259
+msgid "Image Height"
+msgstr "Hauteur image"
+
+#: elementor/posts/class.php:250
+msgid "Image Size"
+msgstr "Taille image"
+
+#: elementor/pricing/class.php:721
+msgid "Inactive Color"
+msgstr "Couleur inactive"
+
+#: elementor/pricing/class.php:713
+msgid "Inactive items"
+msgstr "Éléments inactifs"
+
+#: elementor/listing-locations/class.php:329
+#: elementor/testimonial/class.php:242
+msgid "Infinite"
+msgstr "Infini"
+
+#: elementor/infobox/class.php:23 elementor/infobox/class.php:269
+msgid "Info Box"
+msgstr "Boîte d'info"
+
+#: elementor/infobox/class.php:311 elementor/infobox/class.php:477
+#: elementor/infobox/class.php:522
+msgid "Infobox Background"
+msgstr "Arrière-plan infobox"
+
+#: elementor/el-extend.php:141
+msgid "Inline"
+msgstr "En ligne"
+
+#. %s: post type name
+#: inc/rt-posts.php:69
+#, php-format
+msgid "Insert into %s"
+msgstr "Insérer dans %s"
+
+#: inc/post-meta.php:38
+msgid "Instagram"
+msgstr "Instagram"
+
+#: elementor/listing-locations/class.php:505
+msgid "Item Style"
+msgstr "Style d'élément"
+
+#: elementor/testimonial/class.php:131
+msgid "John Doe"
+msgstr "John Doe"
+
+#: elementor/hooks.php:78 elementor/base.php:79
+msgid "Justified"
+msgstr "Justifié"
+
+#: elementor/testimonial/class.php:137
+msgid "Kent Odeldan"
+msgstr "Kent Odeldan"
+
+#: elementor/hooks.php:94
+msgid "Keyword field position"
+msgstr "Position du champ mot-clé"
+
+#: elementor/hooks.php:138
+msgid "label Color"
+msgstr "couleur d'étiquette"
+
+#: elementor/posts/class.php:217 elementor/authors/class.php:135
+msgid "Last modified date"
+msgstr "Dernière modification"
+
+#: inc/post-meta.php:61 elementor/testimonial/class.php:95
+#: elementor/testimonial/class.php:108
+msgid "Layout"
+msgstr "Mise en page"
+
+#: inc/post-meta.php:86 inc/post-meta.php:146
+msgid "Layout 1"
+msgstr "Mise en page 1"
+
+#: inc/post-meta.php:87 inc/post-meta.php:147
+msgid "Layout 2"
+msgstr "Mise en page 2"
+
+#: inc/post-meta.php:52
+msgid "Layout Settings"
+msgstr "Paramètres de mise en page"
+
+#: inc/post-meta.php:56 elementor/listing-locations/class.php:57
+msgid "Layouts"
+msgstr "Mises en page"
+
+#: elementor/hooks.php:66 elementor/base.php:67 elementor/el-extend.php:180
+#: elementor/listing-locations/class.php:280 elementor/infobox/class.php:119
+#: elementor/infobox/class.php:142 elementor/infobox/class.php:171
+#: elementor/infobox/class.php:230
+msgid "Left"
+msgstr "Gauche"
+
+#: inc/post-meta.php:66
+msgid "Left Sidebar"
+msgstr "Barre latérale gauche"
+
+#: elementor/pricing/class.php:360
+msgid "Line Color"
+msgstr "Couleur de ligne"
+
+#: elementor/title/class.php:90 elementor/infobox/class.php:106
+#: elementor/pricing/class.php:119 elementor/pricing/class.php:231
+msgid "Link"
+msgstr "Lien"
+
+#: elementor/authors/class.php:375
+msgid "Listing Counting Style"
+msgstr "Style compteur d'annonces"
+
+#: elementor/listing-locations/class.php:22
+msgid "Listing Locations"
+msgstr "Emplacements des annonces"
+
+#: elementor/search-form/class.php:50
+msgid "Listing Search Type"
+msgstr "Type de recherche d'annonces"
+
+#: elementor/listing-locations/class.php:70
+msgid "Location background image"
+msgstr "Image de fond emplacement"
+
+#: elementor/testimonial/class.php:133
+msgid ""
+"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquid expedita "
+"recusandae ipsam quas fugit aperiam nihil nemo delectus laudantium? Enim est "
+"quibusdam dicta a"
+msgstr ""
+
+#: elementor/title/class.php:149 elementor/title/class.php:223
+#: elementor/title/class.php:287 elementor/infobox/class.php:278
+#: elementor/infobox/class.php:425 elementor/infobox/class.php:585
+#: elementor/infobox/class.php:634
+msgid "Margin"
+msgstr "Marge"
+
+#: elementor/testimonial/class.php:125
+msgid "Maria Zokatti"
+msgstr "Maria Zokatti"
+
+#: inc/post-meta.php:184
+msgid "Max input number will be 100"
+msgstr "Le nombre maximum sera 100"
+
+#: elementor/listing-locations/class.php:192
+#: elementor/listing-locations/class.php:429
+#: elementor/testimonial/class.php:346
+msgid "Medium Desktop items"
+msgstr "Éléments bureau moyen"
+
+#: inc/post-meta.php:112
+msgid "Menu Layout"
+msgstr "Mise en page menu"
+
+#: elementor/base.php:160
+msgid "Menu Order"
+msgstr "Ordre du menu"
+
+#: elementor/authors/class.php:138
+msgid "Menu order"
+msgstr "Ordre du menu"
+
+#: elementor/posts/class.php:495
+msgid "Meta Color"
+msgstr "Couleur méta"
+
+#: elementor/posts/class.php:516
+msgid "Meta Color Hover"
+msgstr "Couleur méta survol"
+
+#: elementor/posts/class.php:467
+msgid "Meta Info Style"
+msgstr "Style info méta"
+
+#: elementor/infobox/class.php:205
+msgid "Middle"
+msgstr "Milieu"
+
+#: elementor/listing-locations/class.php:212
+#: elementor/listing-locations/class.php:465
+#: elementor/testimonial/class.php:382
+msgid "Mobile items"
+msgstr "Éléments mobiles"
+
+#: elementor/base.php:156
+msgid "Modified"
+msgstr "Modifié"
+
+#: elementor/pricing/class.php:77
+msgid "Monthly"
+msgstr "Mensuel"
+
+#: elementor/pricing/class.php:158
+msgid "Monthly Items"
+msgstr "Éléments mensuels"
+
+#: elementor/posts/class.php:654
+msgid "More Details"
+msgstr "Plus de détails"
+
+#: elementor/testimonial/class.php:54
+msgid "Name"
+msgstr "Nom"
+
+#: elementor/authors/class.php:318 elementor/testimonial/class.php:494
+msgid "Name Color"
+msgstr "Couleur du nom"
+
+#: elementor/authors/class.php:346
+msgid "Name Color - Hover"
+msgstr "Couleur du nom - Survol"
+
+#: elementor/authors/class.php:272
+msgid "Name Spacing"
+msgstr "Espacement du nom"
+
+#: elementor/testimonial/class.php:485
+msgid "Name Style"
+msgstr "Style du nom"
+
+#: elementor/authors/class.php:256 elementor/testimonial/class.php:504
+msgid "Name Typography"
+msgstr "Typographie du nom"
+
+#: elementor/authors/class.php:247
+msgid "Name/Agency Style"
+msgstr "Style nom/agence"
+
+#: elementor/listing-locations/class.php:276
+msgid "Navigation Position"
+msgstr "Position navigation"
+
+#. %s: post type name
+#: inc/rt-posts.php:50
+#, php-format
+msgid "New %s"
+msgstr "Nouveau %s"
+
+#. %s: taxonomy name
+#: inc/rt-posts.php:144
+#, php-format
+msgid "New %s Name"
+msgstr "Nouveau nom %s"
+
+#: elementor/listing-locations/class.php:332
+#: elementor/listing-locations/class.php:344
+#: elementor/listing-locations/class.php:371
+#: elementor/testimonial/class.php:245 elementor/testimonial/class.php:258
+#: elementor/testimonial/class.php:287
+msgid "No"
+msgstr "Non"
+
+#. %s: taxonomy plural name
+#: inc/rt-posts.php:154
+#, php-format
+msgid "No %s"
+msgstr "Aucun %s"
+
+#. %s: taxonomy plural name
+#: inc/rt-posts.php:152
+#, php-format
+msgid "No %s found."
+msgstr "Aucun %s trouvé."
+
+#: elementor/posts/class.php:556
+msgid "No Avatar"
+msgstr "Pas d'avatar"
+
+#: elementor/posts/view-1.php:124 elementor/posts/view-2.php:137
+msgid "No Comment"
+msgstr "Pas de commentaire"
+
+#: elementor/posts/class.php:340 elementor/posts/class.php:487
+#: elementor/authors/class.php:312 elementor/authors/class.php:461
+#: elementor/title/class.php:318 elementor/infobox/class.php:456
+#: elementor/infobox/class.php:666 elementor/pricing/class.php:506
+msgid "Normal"
+msgstr "Normal"
+
+#: elementor/posts/class.php:218 elementor/authors/class.php:137
+msgid "Number of comments"
+msgstr "Nombre de commentaires"
+
+#. %s: Number of listings.
+#: elementor/listing-locations/view-1.php:51
+#: elementor/listing-locations/view-2.php:45
+#, php-format
+msgctxt "Number of Listings"
+msgid "%s Listing"
+msgid_plural "%s Listings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: widgets/post.php:136
+msgid "Number of Post"
+msgstr "Nombre d'articles"
+
+#: elementor/posts/class.php:193 elementor/authors/class.php:113
+msgid ""
+"Number of post to displace or pass over. The offset parameter is ignored "
+"when post limit => -1 (show all posts) is used."
+msgstr ""
+
+#: elementor/el-extend.php:151
+msgid "Number part minimun width (optional)"
+msgstr "Largeur min partie nombre (optionnel)"
+
+#: elementor/el-extend.php:204
+msgid "Number Typography"
+msgstr "Typographie nombre"
+
+#: elementor/hooks.php:160 elementor/hooks.php:173 elementor/hooks.php:212
+#: elementor/hooks.php:225 elementor/el-extend.php:30
+#: elementor/el-extend.php:58 elementor/el-extend.php:75
+#: elementor/el-extend.php:103 elementor/listing-locations/class.php:124
+#: elementor/listing-locations/class.php:134 elementor/title/class.php:177
+#: elementor/search-form/class.php:66 elementor/search-form/class.php:79
+#: elementor/search-form/class.php:91
+msgid "Off"
+msgstr "Désactivé"
+
+#: elementor/hooks.php:159 elementor/hooks.php:172 elementor/hooks.php:211
+#: elementor/hooks.php:224 elementor/el-extend.php:31
+#: elementor/el-extend.php:76 elementor/listing-locations/class.php:123
+#: elementor/listing-locations/class.php:133 elementor/title/class.php:176
+#: elementor/search-form/class.php:65 elementor/search-form/class.php:78
+#: elementor/search-form/class.php:90
+msgid "On"
+msgstr "Activé"
+
+#: elementor/el-extend.php:57 elementor/el-extend.php:102
+msgid "on"
+msgstr "on"
+
+#: widgets/post.php:131 elementor/posts/class.php:210
+#: elementor/authors/class.php:128
+msgid "Order by"
+msgstr "Trier par"
+
+#: elementor/posts/class.php:214 elementor/authors/class.php:132
+msgid "Order by post ID"
+msgstr "Trier par ID d'article"
+
+#: elementor/title/class.php:353 elementor/infobox/class.php:289
+#: elementor/infobox/class.php:436 elementor/infobox/class.php:701
+#: elementor/pricing/class.php:334 elementor/pricing/class.php:547
+msgid "Padding"
+msgstr "Remplissage"
+
+#: inc/post-meta.php:192
+msgid "Padding Bottom"
+msgstr "Remplissage inférieur"
+
+#: inc/post-meta.php:187
+msgid "Padding Top"
+msgstr "Remplissage supérieur"
+
+#: inc/post-meta.php:202
+msgid "Page/Post Background Color"
+msgstr "Couleur fond page/article"
+
+#: inc/post-meta.php:197
+msgid "Page/Post Background Image"
+msgstr "Image fond page/article"
+
+#: elementor/el-extend.php:28 elementor/el-extend.php:73
+msgid "Parallax"
+msgstr "Parallaxe"
+
+#: elementor/el-extend.php:55 elementor/el-extend.php:100
+msgid "Parallax Transition off?"
+msgstr "Transition parallaxe désactivée ?"
+
+#: elementor/base.php:157
+msgid "Parent"
+msgstr "Parent"
+
+#. %s: taxonomy name
+#: inc/rt-posts.php:132
+#, php-format
+msgid "Parent %s"
+msgstr "%s parent"
+
+#. %s: taxonomy name
+#: inc/rt-posts.php:134
+#, php-format
+msgid "Parent %s:"
+msgstr "%s parent :"
+
+#: widgets/about.php:83
+msgid "Phone"
+msgstr "Téléphone"
+
+#: widgets/addvertise.php:76
+msgid "Phone Number"
+msgstr "Numéro de téléphone"
+
+#: elementor/listing-locations/view-2.php:40
+msgid "Please Select a Location and Background"
+msgstr "Sélectionnez un emplacement et un arrière-plan"
+
+#: elementor/listing-locations/view-1.php:46
+msgid "Please Select a Location and Background image"
+msgstr "Sélectionnez un emplacement et une image de fond"
+
+#. %s: taxonomy plural name
+#: inc/rt-posts.php:128
+#, php-format
+msgid "Popular %s"
+msgstr "%s populaires"
+
+#: widgets/advanced-search.php:123 elementor/search-form/class.php:53
+msgid "Popup"
+msgstr "Popup"
+
+#: elementor/posts/class.php:19
+msgid "Post"
+msgstr "Article"
+
+#: elementor/base.php:153
+msgid "Post Author"
+msgstr "Auteur de l'article"
+
+#: elementor/posts/class.php:37
+msgid "Post Grid"
+msgstr "Grille d'articles"
+
+#: elementor/base.php:152
+msgid "Post Id"
+msgstr "ID article"
+
+#: elementor/posts/class.php:106 elementor/authors/class.php:61
+msgid "Post Limit"
+msgstr "Limite d'articles"
+
+#: elementor/posts/class.php:190
+msgid "Post offset"
+msgstr "Décalage article"
+
+#: elementor/authors/class.php:136
+msgid "Post parent ID"
+msgstr "ID article parent"
+
+#: elementor/posts/class.php:117
+msgid "Post Source"
+msgstr "Source de l'article"
+
+#: elementor/pricing/class.php:102 elementor/pricing/class.php:214
+msgid "Price"
+msgstr "Prix"
+
+#: elementor/pricing/class.php:455
+msgid "Price Color"
+msgstr "Couleur du prix"
+
+#: elementor/pricing/class.php:474
+msgid "Price Gap"
+msgstr "Espacement prix"
+
+#: elementor/pricing/class.php:133 elementor/pricing/class.php:245
+msgid "Price List"
+msgstr "Liste de prix"
+
+#: elementor/pricing/class.php:447
+msgid "Price Style"
+msgstr "Style prix"
+
+#: elementor/pricing/class.php:465
+msgid "Price Typography"
+msgstr "Typographie prix"
+
+#: elementor/pricing/class.php:23
+msgid "Pricing"
+msgstr "Tarification"
+
+#: elementor/testimonial/class.php:603
+msgid "Quote Icon"
+msgstr "Icône citation"
+
+#: elementor/testimonial/class.php:594
+msgid "Quote Icon Style"
+msgstr "Style icône citation"
+
+#: elementor/infobox/class.php:323 elementor/infobox/class.php:489
+#: elementor/infobox/class.php:534 elementor/pricing/class.php:323
+msgid "Radius"
+msgstr "Rayon"
+
+#. Author of the plugin
+msgid "RadiusTheme"
+msgstr "RadiusTheme"
+
+#: elementor/base.php:158
+msgid "Random"
+msgstr "Aléatoire"
+
+#: elementor/posts/class.php:219 elementor/authors/class.php:139
+msgid "Random order"
+msgstr "Ordre aléatoire"
+
+#: elementor/testimonial/class.php:80 elementor/testimonial/class.php:150
+msgid "Rating"
+msgstr "Note"
+
+#: elementor/testimonial/class.php:82
+msgid "Rating 1"
+msgstr "Note 1"
+
+#: elementor/testimonial/class.php:83
+msgid "Rating 2"
+msgstr "Note 2"
+
+#: elementor/testimonial/class.php:84
+msgid "Rating 3"
+msgstr "Note 3"
+
+#: elementor/testimonial/class.php:85
+msgid "Rating 4"
+msgstr "Note 4"
+
+#: elementor/testimonial/class.php:86
+msgid "Rating 5"
+msgstr "Note 5"
+
+#: elementor/posts/class.php:605
+msgid "Reading Time Visibility"
+msgstr "Visibilité temps de lecture"
+
+#: elementor/hooks.php:74 elementor/base.php:75 elementor/el-extend.php:188
+#: elementor/listing-locations/class.php:288 elementor/infobox/class.php:127
+#: elementor/infobox/class.php:150 elementor/infobox/class.php:179
+#: elementor/infobox/class.php:238
+msgid "Right"
+msgstr "Droite"
+
+#: inc/post-meta.php:67
+msgid "Right Sidebar"
+msgstr "Barre latérale droite"
+
+#. %s: post type plural name
+#. %s: taxonomy plural name
+#: inc/rt-posts.php:56 inc/rt-posts.php:126
+#, php-format
+msgid "Search %s"
+msgstr "Rechercher %s"
+
+#: widgets/advanced-search.php:134 elementor/search-form/class.php:89
+msgid "Search by Category"
+msgstr "Rechercher par catégorie"
+
+#: widgets/advanced-search.php:146
+msgid "Search by Custom Fields"
+msgstr "Rechercher par champs personnalisés"
+
+#: widgets/advanced-search.php:142
+msgid "Search by Google Location"
+msgstr "Rechercher par Google Maps"
+
+#: widgets/advanced-search.php:130 elementor/search-form/class.php:64
+msgid "Search by Keyword"
+msgstr "Rechercher par mot-clé"
+
+#: widgets/advanced-search.php:138
+msgid "Search by Local Location"
+msgstr "Rechercher par emplacement local"
+
+#: elementor/search-form/class.php:77
+msgid "Search by Location"
+msgstr "Rechercher par emplacement"
+
+#: widgets/advanced-search.php:154
+msgid "Search by Price"
+msgstr "Rechercher par prix"
+
+#: widgets/advanced-search.php:150
+msgid "Search by Rating"
+msgstr "Rechercher par note"
+
+#: elementor/search-form/class.php:21 elementor/search-form/class.php:30
+msgid "Search Form"
+msgstr "Formulaire de recherche"
+
+#: widgets/advanced-search.php:120
+msgid "Search Style"
+msgstr "Style de recherche"
+
+#: elementor/title/class.php:23
+msgid "Section Title"
+msgstr "Titre de section"
+
+#: elementor/listing-locations/class.php:69
+msgid "Select Location"
+msgstr "Sélectionner emplacement"
+
+#: elementor/listing-locations/class.php:84
+msgid "Select location background image"
+msgstr "Sélectionner image de fond emplacement"
+
+#: elementor/posts/class.php:140 elementor/posts/class.php:155
+msgid "Select post category's."
+msgstr "Sélectionnez les catégories."
+
+#: elementor/posts/class.php:170
+msgid "Select post tag's."
+msgstr "Sélectionnez les tags."
+
+#: elementor/posts/class.php:126 elementor/authors/class.php:79
+msgid "Select posts source that you like to show."
+msgstr "Sélectionnez la source des articles à afficher."
+
+#. %s: taxonomy plural name
+#: inc/rt-posts.php:146
+#, php-format
+msgid "Separate %s with commas"
+msgstr "Séparez %s par des virgules"
+
+#: inc/social-share.php:48
+msgid "Share:"
+msgstr "Partager :"
+
+#: elementor/listing-locations/class.php:266
+#: elementor/listing-locations/class.php:307
+#: elementor/listing-locations/class.php:319 elementor/posts/class.php:540
+#: elementor/posts/class.php:569 elementor/posts/class.php:581
+#: elementor/posts/class.php:607 elementor/posts/class.php:619
+#: elementor/posts/class.php:643 elementor/authors/class.php:450
+#: elementor/testimonial/class.php:152 elementor/testimonial/class.php:231
+#: elementor/testimonial/class.php:420
+msgid "Show"
+msgstr "Afficher"
+
+#: elementor/hooks.php:158 elementor/hooks.php:210
+msgid "Show Gallery Button"
+msgstr "Afficher bouton galerie"
+
+#: elementor/listing-locations/class.php:122
+msgid "Show Listing Counts"
+msgstr "Afficher le nombre d'annonces"
+
+#: elementor/hooks.php:162 elementor/hooks.php:214
+msgid "Show or Hide Listing On/Off. Default: On"
+msgstr "Afficher ou masquer l'annonce. Par défaut : Activé"
+
+#: elementor/hooks.php:175 elementor/hooks.php:227
+msgid "Show or Hide Listing Reviews Button. Default: On"
+msgstr "Afficher ou masquer bouton avis. Par défaut : Activé"
+
+#: elementor/hooks.php:171 elementor/hooks.php:223
+msgid "Show Reviews"
+msgstr "Afficher les avis"
+
+#: elementor/authors/class.php:448
+msgid "Show Social Icon"
+msgstr "Afficher icône sociale"
+
+#: elementor/title/class.php:175
+msgid "Show Title Line"
+msgstr "Afficher ligne titre"
+
+#: elementor/listing-locations/class.php:60 elementor/testimonial/class.php:97
+msgid "Slider"
+msgstr "Carrousel"
+
+#: elementor/listing-locations/class.php:236
+msgid "Slider Options"
+msgstr "Options du carrousel"
+
+#: elementor/listing-locations/class.php:245
+#: elementor/testimonial/class.php:209
+msgid "Slider Per Group"
+msgstr "Carrousel par groupe"
+
+#: elementor/listing-locations/class.php:222
+#: elementor/listing-locations/class.php:483
+msgid "Small Mobile items"
+msgstr "Éléments petit mobile"
+
+#: elementor/authors/class.php:440
+msgid "Social Icon"
+msgstr "Icône sociale"
+
+#: elementor/posts/class.php:227 elementor/authors/class.php:146
+msgid "Sort order"
+msgstr "Ordre de tri"
+
+#: elementor/listing-locations/class.php:393
+#: elementor/testimonial/class.php:310
+msgid "Space"
+msgstr "Espace"
+
+#: elementor/el-extend.php:40 elementor/el-extend.php:85
+#: elementor/listing-locations/class.php:381
+#: elementor/testimonial/class.php:298
+msgid "Speed"
+msgstr "Vitesse"
+
+#: widgets/advanced-search.php:126 elementor/search-form/class.php:54
+#: elementor/pricing/class.php:168 elementor/pricing/class.php:271
+msgid "Standard"
+msgstr "Standard"
+
+#: elementor/testimonial/class.php:584
+msgid "Star Active Color"
+msgstr "Couleur étoile active"
+
+#: elementor/testimonial/class.php:574
+msgid "Star Color"
+msgstr "Couleur étoile"
+
+#: elementor/testimonial/class.php:565
+msgid "Star Style"
+msgstr "Style étoile"
+
+#: elementor/el-extend.php:136 elementor/listing-locations/class.php:44
+#: elementor/posts/class.php:45 elementor/authors/class.php:49
+#: elementor/search-form/class.php:38
+msgid "Style"
+msgstr "Style"
+
+#: elementor/listing-locations/class.php:46 elementor/posts/class.php:49
+#: elementor/authors/class.php:53 elementor/search-form/class.php:40
+#: elementor/testimonial/class.php:110
+msgid "Style 1"
+msgstr "Style 1"
+
+#: elementor/listing-locations/class.php:47 elementor/posts/class.php:50
+#: elementor/search-form/class.php:41 elementor/testimonial/class.php:111
+msgid "Style 2"
+msgstr "Style 2"
+
+#: elementor/hooks.php:59 elementor/listing-locations/class.php:48
+msgid "Style 3"
+msgstr "Style 3"
+
+#: elementor/title/class.php:49 elementor/title/class.php:188
+msgid "Sub Title"
+msgstr "Sous-titre"
+
+#: elementor/title/class.php:196
+msgid "Sub Title Style"
+msgstr "Style sous-titre"
+
+#: elementor/pricing/class.php:150 elementor/pricing/class.php:253
+msgid "Tab Name"
+msgstr "Nom d'onglet"
+
+#: elementor/listing-locations/class.php:202
+#: elementor/listing-locations/class.php:447
+#: elementor/testimonial/class.php:364
+msgid "Tablet items"
+msgstr "Éléments tablette"
+
+#: elementor/testimonial/class.php:22
+msgid "Testimonial"
+msgstr "Témoignage"
+
+#: elementor/testimonial/class.php:114
+msgid "Testimonial Layout. Default: 1"
+msgstr "Mise en page témoignage. Par défaut : 1"
+
+#: elementor/testimonial/class.php:101
+msgid "Testimonial Layout. Default: Grid"
+msgstr "Mise en page témoignage. Par défaut : Grille"
+
+#: elementor/testimonial/class.php:120
+msgid "Testimonial List"
+msgstr "Liste témoignages"
+
+#: elementor/title/class.php:82 elementor/infobox/class.php:98
+msgid "Text"
+msgstr "Texte"
+
+#: elementor/infobox/class.php:168 elementor/infobox/class.php:227
+msgid "Text Alignment left/right"
+msgstr "Alignement texte gauche/droite"
+
+#: elementor/infobox/class.php:198
+msgid "Text Alignment top/bottom"
+msgstr "Alignement texte haut/bas"
+
+#: elementor/pricing/class.php:622 elementor/pricing/class.php:743
+msgid "Text Color"
+msgstr "Couleur texte"
+
+#: elementor/pricing/class.php:614
+msgid "Text Style"
+msgstr "Style texte"
+
+#. %s: html tags
+#: cl-hotel-core.php:99
+#, php-format
+msgid ""
+"The %1$sCL Hotel Optimization%2$s requires %1$sphp 7.2+%2$s. Please consider "
+"updating php version and know more about it <a href=\"https://wordpress."
+"org/about/requirements/\" target=\"_blank\">here</a>."
+msgstr ""
+
+#: elementor/testimonial/class.php:418
+msgid "Thumb"
+msgstr "Miniature"
+
+#: elementor/testimonial/class.php:450
+msgid "Thumb Size Height"
+msgstr "Hauteur miniature"
+
+#: elementor/testimonial/class.php:429
+msgid "Thumb Size Width"
+msgstr "Largeur miniature"
+
+#: elementor/testimonial/class.php:411
+msgid "Thumb Style"
+msgstr "Style miniature"
+
+#: widgets/post.php:140
+msgid "Thumbnail Image"
+msgstr "Image miniature"
+
+#: elementor/posts/class.php:242
+msgid "Thumbnail Style"
+msgstr "Style miniature"
+
+#: elementor/posts/class.php:596
+msgid "Time Ago Format"
+msgstr "Format il y a"
+
+#: elementor/base.php:154 widgets/newsletter.php:85 widgets/post.php:116
+#: widgets/post.php:122 widgets/advanced-search.php:116 widgets/about.php:75
+#: widgets/addvertise.php:68 elementor/posts/class.php:216
+#: elementor/authors/class.php:134 elementor/title/class.php:40
+#: elementor/title/class.php:114 elementor/infobox/class.php:65
+#: elementor/infobox/class.php:550 elementor/pricing/class.php:84
+#: elementor/pricing/class.php:196
+msgid "Title"
+msgstr "Titre"
+
+#: elementor/title/class.php:99 elementor/testimonial/class.php:162
+#: elementor/pricing/class.php:54
+msgid "Title Alignment"
+msgstr "Alignement titre"
+
+#: elementor/listing-locations/class.php:527 elementor/posts/class.php:293
+#: elementor/pricing/class.php:379
+msgid "Title Color"
+msgstr "Couleur titre"
+
+#: elementor/pricing/class.php:398
+msgid "Title Gap"
+msgstr "Espacement titre"
+
+#: elementor/listing-locations/class.php:538 elementor/posts/class.php:355
+msgid "Title Hover Color"
+msgstr "Couleur titre survol"
+
+#: elementor/title/class.php:159
+msgid "Title Line"
+msgstr "Ligne titre"
+
+#: elementor/posts/class.php:318
+msgid "Title Spacing"
+msgstr "Espacement titre"
+
+#: elementor/posts/class.php:286 elementor/title/class.php:122
+#: elementor/infobox/class.php:558 elementor/pricing/class.php:371
+msgid "Title Style"
+msgstr "Style titre"
+
+#: elementor/listing-locations/class.php:554 elementor/pricing/class.php:389
+msgid "Title Typography"
+msgstr "Typographie titre"
+
+#: elementor/infobox/class.php:123 elementor/infobox/class.php:201
+msgid "Top"
+msgstr "Haut"
+
+#: elementor/authors/class.php:23
+msgid "Top Authors"
+msgstr "Meilleurs auteurs"
+
+#: inc/post-meta.php:92
+msgid "Transparent Header"
+msgstr "En-tête transparent"
+
+#: elementor/posts/class.php:310
+msgid "Ttitle Character Limit"
+msgstr "Limite caractères titre"
+
+#: inc/post-meta.php:32
+msgid "Twitter"
+msgstr "Twitter"
+
+#: elementor/listing-locations/class.php:550 elementor/title/class.php:140
+#: elementor/title/class.php:214 elementor/title/class.php:278
+#: elementor/title/class.php:336 elementor/infobox/class.php:576
+#: elementor/infobox/class.php:625 elementor/infobox/class.php:684
+#: elementor/pricing/class.php:524 elementor/pricing/class.php:632
+#: elementor/pricing/class.php:753
+msgid "Typography"
+msgstr "Typographie"
+
+#. %s: taxonomy name
+#: inc/rt-posts.php:140
+#, php-format
+msgid "Update %s"
+msgstr "Mettre à jour %s"
+
+#. %s: post type name
+#: inc/rt-posts.php:71
+#, php-format
+msgid "Uploaded to this %s"
+msgstr "Téléchargé vers ce %s"
+
+#: elementor/posts/view-1.php:136 elementor/posts/view-2.php:84
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#. %s: post type name
+#. %s: post type plural name
+#. %s: taxonomy name
+#: inc/rt-posts.php:52 inc/rt-posts.php:54 inc/rt-posts.php:138
+#, php-format
+msgid "View %s"
+msgstr "Voir %s"
+
+#: elementor/posts/class.php:388
+msgid "Visible"
+msgstr "Visible"
+
+#: elementor/testimonial/class.php:138
+msgid "Web Designer"
+msgstr "Web Designer"
+
+#: elementor/el-extend.php:149 elementor/infobox/class.php:371
+msgid "Width"
+msgstr "Largeur"
+
+#: widgets/post.php:144
+msgid "With Thumbnail"
+msgstr "Avec miniature"
+
+#: widgets/post.php:143
+msgid "Without Thumbnail"
+msgstr "Sans miniature"
+
+#: elementor/testimonial/class.php:132
+msgid "WordPress Developer"
+msgstr "WordPress Developer"
+
+#: elementor/pricing/class.php:189
+msgid "Yearly"
+msgstr "Annuel"
+
+#: elementor/pricing/class.php:261
+msgid "Yearly Items"
+msgstr "Éléments annuels"
+
+#: elementor/listing-locations/class.php:331
+#: elementor/listing-locations/class.php:343
+#: elementor/listing-locations/class.php:370
+#: elementor/testimonial/class.php:244 elementor/testimonial/class.php:257
+#: elementor/testimonial/class.php:286
+msgid "Yes"
+msgstr "Oui"
